@@ -1,881 +1,214 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T23:36:56-05:00</updated><id>http://localhost:4000/</id><title type="html">Hersh Bhasin’s Tech Blog</title><subtitle>Hersh Bhasin on Technology</subtitle><author><name>Hersh Bhasin</name><email>hershbhasin63@gmail.com</email></author><entry><title type="html">Azure Data Factory</title><link href="http://localhost:4000/2019-06-02/azure-data-factory" rel="alternate" type="text/html" title="Azure Data Factory" /><published>2019-06-02T00:00:00-05:00</published><updated>2019-06-02T00:00:00-05:00</updated><id>http://localhost:4000/2019-06-02/azure-data-factory</id><content type="html" xml:base="http://localhost:4000/2019-06-02/azure-data-factory">&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-03T21:03:29-05:00</updated><id>http://localhost:4000/</id><title type="html">Hersh Bhasin’s Blog</title><subtitle>Hersh Bhasin's Writings</subtitle><author><name>Hersh Bhasin</name><email>hershbhasin63@gmail.com</email></author><entry><title type="html">Vrindavan</title><link href="http://localhost:4000/2019-06-01/vrindavan" rel="alternate" type="text/html" title="Vrindavan" /><published>2019-06-01T00:00:00-05:00</published><updated>2019-06-01T00:00:00-05:00</updated><id>http://localhost:4000/2019-06-01/vrindavan</id><content type="html" xml:base="http://localhost:4000/2019-06-01/vrindavan">&lt;p&gt;The trip to Vrindavan was triggered by an article by Vivekananda in which he talked about a vow he once took as a mendicant travelling penniless across India: that he would not ask for alms but wait for food and drink to be offered to him unasked. Though he suffered hardships, fainting at times, people always came to his aid. He reports to have survived many days this way, just on faith. And I had faith in those days. So, I wondered if I could travel across India with no money in my wallet. I decided to test the waters with a pilgrimage to the holy city of Vrindavan, but I still carried a hundred rupee note with me, just to cover the bus fare to Vrindavan.&lt;/p&gt;
 
-&lt;p&gt;In the Event Logs Ingestion &amp;amp; Storage post, I demonstrated ingesting events into a Azure Event Hub and then archiving the data in Avro format into a Data Lake. The Event Hub capture was set to accumulate data by month, by specifying the capture format as :&lt;/p&gt;
+&lt;p&gt;Chandigarh to Delhi is five hours by bus. Like everything else in India, buses have  a class hierarchy, at the top of which is the Air-Conditioned Coach: you slink into its plush seats, pull down the curtain on the darkened windows, watch Bollywood movies on the television that is suspended outside the driver’s cabin, and  tune off the sweltering heat, the swirling dust, the swerving, honking, screeching trucks, the overloaded family cars, the whizzing scooters and motorcycles, the tractors loaded with sugarcane, and the stream of traffic on the Grand Trunk  (GT) Road disappears from your consciousness. The Deluxe Bus, the next class of bus, does not have the air conditioning, but has the television. But the bus I could afford was the Local (Express) Haryana Roadways bus, the lowest in the bus class hierarchy, the ride of the masses.  I learnt quickly how to push and shove to get inside the bus, and then josh and scramble to get a seat on the rock hard benches, and then squeeze myself so that the bench that could accommodate three could now seat five, then lift up my legs to make space for the bundles of possessions that my co-occupants thrusted under the seats. The passengers who could not get seats made optimal use of available space, standing or squatting on their bundles between the aisles, doubling or tripling on seats, mothers taking wailing babies on their laps. Then, as the bus hit the GT road, and  if you ignore or get acclimated to the bodily odors and the smell of hand-rolled cigarettes, the beedis, and overlook the occasional child throwing up out the window opposite you, and get used to the jolts of the bus that has no shock absorbers, and get the hang of grabbing onto the rail of the bench opposite you just as the bus swerves to avoid an oncoming vehicle, and thus get sufficiently comfortable in your situation to allow yourself to open up to your co-passengers, then you will find that the person that you were fighting with to get a seat just a minute ago, a Haryanvi Jat, wearing a white kurta and a white dhoti, is really a congenial companion, who will peel an orange and share it with you, and tell you about his son who is going to be a policeman, and enlighten you on political changes being wrought by Tau Devi Lal, and the boy wearing the synthetic shirt and pant sitting opposite you, will invite you to play the card game Bhabhi, and soon you and the four other passengers will be engaged in a spirited card game of Bhabhi, with the bundle of clothes on the floor as your table, and the five hour ride to Delhi will come to an end in no time.&lt;/p&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{Namespace}_{EventHub}_{PartitionId}/{Year}/{Month}/{Day}_{Hour}_{Minute}_{Second}&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;From the Inter State Bus Terminus at Delhi, I boarded another Express bus to Vrindavan. It was dusk when I reached the Vrindavan bus station. I hailed an auto rickshaw and told the auto driver to take me to a Dharamshala (a free charitable inn) and he took me to the Sri Ram Dharamshala, a few minutes ride from the bus station. In the fading dusk, the Sri Ram Dharamshala, with its centuries old building, with its arched entrance, and the small tea stall outside the entrance that had a brazier around which a few villagers sat warming their hands, looked idyllic. The manager told me it would be three rupees to rent a rope charpoy bed to sleep in the veranda around the open courtyard. I pulled down a charpoy that stood leaning against the veranda wall and dragged it away from the open light bulb so that the light would not shine in my eyes as I sleep. Three rustic boys who lay on a few charpoys away from me, noticed me and momentarily stopped their talk as they sized me up.&lt;/p&gt;
 
-&lt;p&gt;This will result in monthly folders. Say, we had specified a Event Hub partition size of 2. Then, taking the month January as an example,  we will have files dropped into our two partition folders as follows:&lt;/p&gt;
+&lt;p&gt;I got up at 5 a.m. next morning. As I started to walk out of the arched gateway, the three rustic boys from last night caught up with me. They were also in Vrindavan for a pilgrimage they said and invited me to join them on the 13-mile-long circumambulation (parikrama) around the Govardhan mountain and I agreed. Legend has it that Lord Krishna lifted the Govardhan hill on his little finger to save the inhabitants of Vrindavan from the wrath of the rain god Indra.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;archivefolder\cloudworxpoceventhubns_cloudworxpoceventhub_0\2018\01\22_16_30_03.avro
-archivefolder\cloudworxpoceventhubns_cloudworxpoceventhub_1\2018\01\22_16_30_03.avro
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Later, as we became more familiar, I came to know that one of the rustic boys was a teacher at a government school at a village in Haryana.  Another boy, the sickly looking one who walked with a limp, was the beneficiary of the pilgrimage: they were here to pray for the health of this boy. The third boy told me that he was an ex-dacoit. He was reformed now he said. His parents had purchased a tractor for him and he now rented out his tractor service for harvesting crop to local farmers. I do not recall being startled or perturbed when I heard this news of his being a dacoit. I know I would be now, having heard of so many stories about thugs and cheats at holy places in India. But at that time I was more trusting in the goodness of my fellow beings. And I must say, that in this case, my trust was well placed for my companions who took such good care of me, not allowing me to spend a single paisa on food, refreshments or for the tickets of the local bus.&lt;/p&gt;
 
-&lt;p&gt;We can have hundreds of files dropped into the January folder, as for each {Day}&lt;em&gt;{Hour}&lt;/em&gt;{Minute}_{Second} combination, we get a file drop.  (You can view the raw data in the source code folder, under a folder called “Data”)&lt;/p&gt;
+&lt;p&gt;As we made our way through the streets of Vrindavan, the whole town was resounding with the sounds of temple bells, and the chants of the names of Krishna: a very spiritual atmosphere indeed. We passed by hundreds of old ladies, dressed in the white garb of widows, their foreheads marked with the traditional Vaishnava tilaka, thumbing their beads, chanting the names of Lord Krishna. The teacher told me that these were the “widows of Vrindavan”. There are more than sixteen thousand widows that live in Vrindavan. Most of these widows are in the last years of their lives. They have been discarded here, after forfeiting their properties to their sons and families, and in their declining years, when they can hardly walk, they are forced to fend for themselves. They get paid three rupees (about 40 cents), and a handful of rice, for chanting four hours in one of the hundreds of temples in Vrindavan. They chant from 6 am to 10 am in the morning and then from 4pm to 8pm in the evening. There is a struggle every morning to get selected to chant at the temples, so they have to queue up hours in advance. The really old widows, those who are not fit enough to compete in this endeavor, take to begging in the streets.  A large number of these widows are from Bengal. The Bengal connection started with the Bengali bhakti saint Chaitanya Mahaprabhu who visited Vrindavan in 1515 and established residences for the Bengali widows so that they could spend time chanting the names of Krishna undisturbed. Chaitanya Mahaprabhu’s teaching is the inspiration for the Hare Krishna movement today. Over time these residences for the widows were converted into for-profit hotels and guest houses, and the widows lost the roof over their heads. Then, a rich Seth, Jagannath Poddar, set up a fund to help them. However, he thought that these old widows should earn their keep. Hence he started the system of payment for chanting, which continues till this day. The government of India also pays these widows a three-hundred-rupee pension (5 USD) per month, and another five hundred rupees (8 USD) per month for food. However, it is very difficult for the illiterate widows to wade through the red tape and bureaucracy to obtain these benefits. There is a whole process of getting identification cards, ration cards, proof of residence, Aadhar cards etc. that offer a formidable challenge to the widows. They also have to contend with cheating at the hand of sharks and officials.&lt;/p&gt;
 
-&lt;p&gt;Also, we will have 12 folders created, one for each month.&lt;/p&gt;
+&lt;p&gt;On learning about the plight of the widows, Vrindavan’s spiritual atmosphere now seemed artificial to me, a role play forced upon these poor widows, whose extreme helplessness and hunger was being exploited by our heartless society in making them chant for hours, to provide the spiritual ambience to Vrindavan, in return for a few rupees and scraps of food.&lt;/p&gt;
 
-&lt;p&gt;Now our objective is to automate the extraction and curation of this monthly data by a process that can be scheduled to run once every month.  For this we will use Azure Data Factory&lt;/p&gt;
+&lt;p&gt;The sweltering heat, the swirling dust, the kaccha dirt roads upon which we walked that meandered endlessly around the elusive Govardhan hill, now visible, now not, the chai shops, the devotees dancing to the chants of Hare Krishna and  to the beat of the mridanga, the sadhus who pushed a stone with their nose all the way along the 13 mile long pilgrimage around the hill as their penance, the male devotees dressed in sarees, pretending to be gopies, the female lovers of Krishna, dancing and calling out to Radha to give them a vision of Krishna, the devotees distributing food to the pilgrims, bribing Krishna to fulfill their desires, the food that was out of reach for the starving widows we left behind in the town of Vrindavan who were too feeble to come all this way to get the food being distributed: all this we saw as we progressed on our pilgrimage. The youth with the limp did not let me pay for any expense. He paid for the meals, for the chai, for the bus fare, and for the occasional Coca Cola. On the conclusion of the 13-mile circumambulation, we took a bus ride to the Mansi Ganga Kund, an artificial lake located in the heart of Govardhan town. The youth with the limp again paid the bus fare for the group. The traditional way to end the circumambulation is to float a leaf bowl with flowers and oil lamp in the lake. There were pundits selling these bowls on the stairs of the lake. The youth with the limp again surged ahead, rupees in his hand, to buy the bowls for the group. The pundit who was selling the bowls, seeing that the youth with the limp was buying the bowl for me, told me, “Why are you letting that boy buy the bowl and deprive you of the spiritual benefit that will accrue to you if you buy it with your own money?” I saw then what was happening. A spiritual hijack! This explained why the boy with the limp had been paying for all my expenses till now. The spiritual hijack was prevented that day for I bought my own floating leaf bowl. I did prove my point though that it was possible to travel penniless in India.&lt;/p&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html">The trip to Vrindavan was triggered by an article by Vivekananda in which he talked about a vow he once took as a mendicant travelling penniless across India: that he would not ask for alms but wait for food and drink to be offered to him unasked. Though he suffered hardships, fainting at times, people always came to his aid. He reports to have survived many days this way, just on faith. And I had faith in those days. So, I wondered if I could travel across India with no money in my wallet. I decided to test the waters with a pilgrimage to the holy city of Vrindavan, but I still carried a hundred rupee note with me, just to cover the bus fare to Vrindavan.</summary></entry><entry><title type="html">The 299 Ramayanas That Just Won’t Go Away</title><link href="http://localhost:4000/2019-05-03/299-ramayanas" rel="alternate" type="text/html" title="The 299 Ramayanas That Just Won't Go Away" /><published>2019-05-03T00:00:00-05:00</published><updated>2019-05-03T00:00:00-05:00</updated><id>http://localhost:4000/2019-05-03/299-ramayanas</id><content type="html" xml:base="http://localhost:4000/2019-05-03/299-ramayanas">&lt;p&gt;I recently read &lt;a href=&quot;https://www.amazon.com/Collected-Essays-Ramanujan-Oxford-Paperbacks/dp/0195668960&quot;&gt;The Collected Essays of A.K.Ramanujan&lt;/a&gt;. I bought the book to read an essay called “Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation”, an essay written by Ramanujan in 1987. I was unaware of the existence of this essay, and of Ramanujan, till I learnt that the Delhi University had removed this essay from its BA required reading list after protests from blinkered religious zealots. I then wanted to find out more of this person whose writing had caused offence, posthumously.&lt;/p&gt;
 
-&lt;h1 id=&quot;azure-data-factory&quot;&gt;Azure Data Factory&lt;/h1&gt;
+&lt;p&gt;The Ramanujan I found in the essays is a recounter of folk tales, the kind told by grandmothers to little children in their kitchens.  His  love for the myths and the folklores is palpable in these essays. Like light refracting from a crystal, the folk tales he writes about morphs into multiple stories, reflecting each other,  bouncing off each other, taking on new forms on every retelling, feeding on each other, till they become the epics.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;What is Azure Data Factory&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;These tales, told by grandmothers in private spheres, he calls “Akam” or “interior” tales. He finds that these “Akam” tales name no names: “There was once a dhobi and he had a son…”, but there would be no names. The dhobi, the son, the place, even the tale would be nameless.&lt;/p&gt;
+
+&lt;p&gt;In contrast to the “Akam” sphere is the “Puram” sphere. This is the “exterior” sphere, the “public” sphere. Here, people, places, things, objects, all have names: “There was once a town called Ujjain, in which lived a king called Vikramaditya…”&lt;/p&gt;
+
+&lt;p&gt;When translating Tamil poems, Ramanujan was surprised to find the nameless stories, poems and myths of the interior sphere turn up in the public sphere, replete with names. Carl Jung and Joseph Campbell have shown that myths and motifs repeat across cultures, and that similar myths are found in different, unconnected cultures, and appear as Archetypes. Such myths, which they call archetypical myths, are templates that shape the character of an individual, a society, a nation or an epoch.&lt;/p&gt;
+
+&lt;p&gt;Nietzsche once said that one can never have an original thought. This is because every thought must be made coherent using language and the rules of grammar. Since the rules of language and grammar are the outcome of the collective thoughts of a culture, a person’s thoughts can never go beyond the language they are thought in.&lt;/p&gt;
+
+&lt;p&gt;In the way grammar limits thoughts, the Puram sphere, the collective repository of the myths of a society, limits stories telling. There is no original story. All stories are reworked interpretations of archetypical myths, pulled from the Puram sphere. “The stories are already there,” says Ramanujan:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Data Factory is a cloud-based data integration service that &lt;strong&gt;automates the movement and transformation of data&lt;/strong&gt;. Just like a factory that runs equipment to take raw materials and transform them into finished goods, Data Factory orchestrates existing services that collect raw data and transform it into ready-to-use information.&lt;/p&gt;
+  &lt;p&gt;..in a sense, no text is original, yet no telling is a mere retelling—and the story has no closure, although it may be enclosed in a text. In India and in Southeast Asia, no one reads the Ramayana or the Mahabharata for the first time. The stories are already there.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;To show the similarity between the Jung’s  archetypes and Ramanujan’s Puram sphere, I give an example from Joseph Campbell’s book, “The Mythic Image”: the motif of the “World as a Dream”. Joseph Campbell has shown that the classic Hindu representation of the ultimate dreamer, Lord Vishnu, floating on the cosmic Milky Ocean, couched upon the coils of the abyssal serpent Ananta, the meaning of whose name is “Unending”, is an archetypical myth in the Puram sphere, the public sphere.&lt;/p&gt;
+
+&lt;p&gt;This  strong motif of Maya, illusion, the world as a dream  finds its resonance in all popular Hindu scriptures: “Tat Tvam Asi” says the Mahavakya, the “Great Pronouncement”, of the Upanishads: the Self is wholly identical with the Ultimate Reality, the Brahman, but it forgets this reality due to illusion, Maya. The Mandukya Upanishad talks of four states of consciousness, the waking, dreaming, deep sleep and the Turya, pure consciousness. During deep sleep the soul, the Jiva, resides in Brahman says the Brahma Sutras.&lt;/p&gt;
+
+&lt;p&gt;Campbell says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Data Factory allows you to create data-driven workflows to move data between both on-premises and cloud data stores as well as process/transform data using compute services such as Azure HDInsight and Azure Data Lake Analytics. After you create a pipeline that performs the action that you need, you can schedule it to run periodically (hourly, daily, weekly etc.).&lt;/p&gt;
+  &lt;p&gt;The notion of this universe, its heavens, hells, and everything within it, as a great dream dreamed by a single being in which all the dream characters are dreaming too, has in India enchanted and shaped the entire civilization…&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;For more information, see &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/data-factory/v1/data-factory-introduction&quot;&gt;Overview &amp;amp; Key Concepts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/ramayana_1.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Using Data Factory, we want to build a pipeline that can run once a month on our monthly  folders in the Data Lake, extract the desired data, (which resides compressed as byte data, and has an Avro format),  transform it as legible CSV data, and finally store the output as CSV files in an output folder in the Data Lake.&lt;/p&gt;
+&lt;p&gt;There are many motifs in this picture of the Vishnu: Vishnu is in deep sleep, the Yognindra, the yogic sleep, dreaming up the universe. He sleeps on the snake Ananta, also called the Sesnaga, the symbol of infinity. He floats on the Milky Ocean, the primal energy, and the waves of the ocean get transformed to matter by the creator god Brahma, who emerges from his navel on a stalk, riding on a lotus. Lotus is the symbol of creation and destruction as in the night the lotus flower closes itself and goes under the water and, with the sun’s light, emerges every morning. So, when Vishnu’s dream breaks, Brahma, and his lotus, are re-absorbed into Vishnu’s navel.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Scheduling.PNG&quot; alt=&quot;Scheduling&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;That myths exist in the Puram sphere, in the collective mind of mankind as archetypical myths and span the boundaries of time and culture is demonstrated by the existence of  &lt;a href=&quot;http://www.touregypt.net/featurestories/nun.htm&quot;&gt;The Egyptian creation myth&lt;/a&gt;, which shows many similarities to the Indian mythology of Vishnu dreaming. The Egyptians believed that before the world was formed, there was a watery mass of dark, directionless chaos called NUN (i.e. Energy, like the Hindu Milky ocean). Out of this primal water, the sun god RA created himself by rising on the first piece of land, the primeval mound called Ben Ben (very similar to Vishnu’s rest, the snake Sheshnag). He rose out of a lotus-blossom (similar to the Hindu’s concept of Brahma raising from Vishnu’s navel on a lotus) and was born from the world egg (similar to the Hindu Hirayangarba, the cosmic egg), or, in another story, as a bnw-bird who then found and landed on the mound.&lt;/p&gt;
 
-&lt;p&gt;For the purpose of this example, we have set up a monthly run schedule. With Data Factory, we can choose to run jobs at a lower time granularity: say by Day or  by Hour. Also, we can write jobs that summarize or aggregate data. In our example, we are just extracting device logs from byte/AVRO to CSV, without performing any aggregation.&lt;/p&gt;
+&lt;p&gt;Carl Jung and Joseph Campbell, and Ramanujan appear to be saying the same thing from their subject matter expertise. There is a collective repository of myths accessible to men, which is the accumulated past of mankind. Jung the psychologist  says that these archetypes are universal patterns of behaviour for mankind which we inherit and which influences our behaviour. Ramanujan the writer says that all stories are reworked interpretations of Puran (archetypical) myths.&lt;/p&gt;
 
-&lt;p&gt;The pipeline we create will report its progress with a calendar. For a daily extraction schedule in the screenshot below, the “Green” in the calendar shows that jobs have been successfully run. The “Orange” shows that it is waiting for data to become available, and the “red “ shows that there was a problem encountered on that day. The administrator can correct the error and rerun the schedule for that day.&lt;/p&gt;
+&lt;p&gt;Coming back to the essay that made Ramanujan posthumously a persona non-grata with the Delhi University: Three Hundred Ramayanas. Ramanujan starts the essay by asking: How many Ramayanas? Three hundred? Three thousand? And in his style of a folk tale recounter, answers the question by telling a tale: Once Rama was sitting on his throne and his ring slipped off. On touching the ground, it made a hole and disappeared. Hanuman, who had the power to become the smallest of the small, took a tiny form and went down the hole. In the netherworld, he meets the King of Spirits and asks for the ring. The king brings him a platter on which there are thousands of rings that all look alike. Hanuman is confused. He cannot identify the ring that belongs to his Rama. Then the king of spirits says, “There have been as many Ramas as there are rings on this platter. When you return to earth, you will not find Rama. This incarnation of Rama is now over. Whenever an incarnation of Rama is about to be over, his ring falls. I collect them and keep them. Now you can go.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/calander.PNG&quot; alt=&quot;calander&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;arm-templates&quot;&gt;ARM templates&lt;/h1&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ARM Template folder: ARMTemplates\DataFactory\datafactory_poc.json. 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You can spin up an environment in Azure using the ARM template linked above. You can run the template in the  Azure portal under &lt;em&gt;All Services/ Template (preview)&lt;/em&gt;. This will create the following resources:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Blob Storage&lt;/li&gt;
-  &lt;li&gt;SQL Server&lt;/li&gt;
-  &lt;li&gt;Database (DataDb)&lt;/li&gt;
-  &lt;li&gt;Azure Data Factory&lt;/li&gt;
-  &lt;li&gt;Data Lake&lt;/li&gt;
-  &lt;li&gt;Data Lake Analytics&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/env.png&quot; alt=&quot;env&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(Note: we will not be using Blob Storage or SQL Server for this POC).&lt;/p&gt;
-
-&lt;h1 id=&quot;the-azure-data-lake-analytics-account-adls&quot;&gt;The Azure Data Lake Analytics Account (ADLS)&lt;/h1&gt;
-
-&lt;h2 id=&quot;what-is-adls&quot;&gt;What is ADLS&lt;/h2&gt;
-
-&lt;p&gt;ADLA is a platform that enables processing of extremely large data sets, integration with existing Data Warehousing, and true parallel processing of structured and unstructured data. ADLA is well equipped to handle many of the types of processing we do in the &lt;em&gt;T&lt;/em&gt; portion of &lt;em&gt;ETL&lt;/em&gt;; that is, transforming data. It provides similar functionality like Hadoop (with Hive and Spark).  However, it is simpler to learn &amp;amp; use:  whereas in Hadoop, you encounter the learning curve of mastering any of its six supported languages – Hive, Pig, Java, Scala, Python, Bash; in ADLS, you just use one: USQL, which is a combination of SQL and C#. Also the pricing of ADALS is per job, which is different from the per hour, (based on how long you keep your cluster running,)  pricing of competing Big Data cloud offerings.  With ADLA, you pay for each individual job that is run. Each job run through ADLA is assigned a number of &lt;strong&gt;Analytic Units (AUs)&lt;/strong&gt;. Each job is billed based on how many AUs were used and how many hours the job ran. So a simple job that used 10 AUs for one hour would be billed for 10 processing hours.&lt;/p&gt;
-
-&lt;p&gt;As a matter of fact, just owning an Azure Data Lake Analytics account doesn’t cost anything. You aren’t even billed for the account until you run a job. That’s pretty unique in the Big Data space.&lt;/p&gt;
-
-&lt;p&gt;For more information, see  &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/data-lake-analytics/data-lake-analytics-overview&quot;&gt;Data Lake Analytics Overview&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-we-are-going-to-use-adls&quot;&gt;How we are going to use ADLS&lt;/h2&gt;
-
-&lt;p&gt;We will create a database in ADLS, and within that database, we will create a stored procedure that will take in a Start Date and an End Date as parameters. When we schedule a  Azure Data Factory pipeline, it will pass in these two parameters.  The stored procedure will use these parameters to determine the folder in the Data Lake to target, and will pick up all the files in that folder, transform it and write the output in an output folder in the Data Lake. There are a number of U-SQL  scripts provided in the source code folder, wrapped within a Visual Studio Solution, which you need to run. The location of the Visual Studio Solution is  in the folder: &lt;em&gt;CloudworxUSQLApplication&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;copy-assemblies-to-a-data-lake-folder&quot;&gt;Copy Assemblies to a Data Lake Folder&lt;/h2&gt;
-
-&lt;p&gt;To parse the AVRO format of our data, and to de-serialize the resultant JSON payload, we need a number of assemblies uploaded to our database (which we will create in a moment). These assemblies have been provided in &lt;a href=&quot;https://github.com/Azure/usql/tree/master/Examples/AvroExamples&quot;&gt;Github&lt;/a&gt;. However, I have included them in the source code download folder at  the &lt;em&gt;CloudworxUSQLApplication/Lib&lt;/em&gt; location.&lt;/p&gt;
-
-&lt;p&gt;In the attached Data Lake, create a folder called &lt;em&gt;\Assemblies\Avro&lt;/em&gt; and upload the assemblies from the &lt;em&gt;Source Code/CloudworxUSQLApplication/Lib&lt;/em&gt; to here.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/assemblies.PNG&quot; alt=&quot;assemblies&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;create-azure-data-lake-analytics-data-sources&quot;&gt;Create Azure Data Lake Analytics Data Sources&lt;/h2&gt;
-
-&lt;p&gt;The ARM template we deployed creates a Azure Data Lake Analytics Account with a Data Source for an Azure Data Lake (Gen1).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Optional&lt;/strong&gt;: The screenshot below also shows a Data Source for a blob storage. We will not be using the blob storage for this POC. However the ARM template creates a blob storage and to create a Data Source for it, do the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In the Azure Data Lake Analytics account, browse to its blade in the Azure portal, and under Settings, click Data Sources.&lt;/li&gt;
-  &lt;li&gt;Click Add Data Source. Then in the Add Data Source blade, in the Storage Type list, select Azure Storage, and then select your Azure storage account. This adds your Azure storage account as a data source to which the Azure Data Lake Analytics account has access, in addition to its default Azure Data Lake Store.&lt;img src=&quot;/assets/data_lake_analytics.PNG&quot; alt=&quot;data_lake_analytics&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;create-an-azure-data-lake-analytics-database&quot;&gt;Create an Azure Data Lake Analytics Database&lt;/h2&gt;
-
-&lt;p&gt;Open the provided  Visual Studio solution at the location &lt;em&gt;..\CloudworxUSQLApplication&lt;/em&gt; and Submit the U-SQL script: &lt;em&gt;1-CreateDB.usql&lt;/em&gt;. This will create a database called AVRO in the ADLS.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Script: 1-CreateDB.usql&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DATABASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DATABASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;copy-assemblies-from-data-lake-to-azure-data-lake-analytics-database&quot;&gt;Copy Assemblies from Data Lake to Azure Data Lake Analytics Database&lt;/h2&gt;
-
-&lt;p&gt;Open the provided  Visual Studio solution at the location &lt;em&gt;..\CloudworxUSQLApplication&lt;/em&gt; and Submit the U-SQL script:  &lt;em&gt;2-RegisterAssemblies.usql&lt;/em&gt;. You will need to run the script two times. First as it is. Then, uncomment the &lt;em&gt;USE Database AVRO&lt;/em&gt; and submit again. This will then copy the assemblies in both the Master and Avro databases.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Script: 2-RegisterAssemblies.usql&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;run&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;this&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;script&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;times&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;First&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;it&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;is&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;Then&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;uncomment&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;USE Database AVRO&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;submit&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;again&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;This&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;will&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;then&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;copy&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;assemblies&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;both&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Master&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;and&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;databases&lt;/span&gt;
-
-&lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;USE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;DATABASE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-
-&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;/Assemblies/Avro/Avro.dll&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Microsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Analytics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Samples&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Formats&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Microsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Analytics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Samples&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Formats&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;/Assemblies/Avro/Microsoft.Analytics.Samples.Formats.dll&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Newtonsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Newtonsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;/Assemblies/Avro/Newtonsoft.Json.dll&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;log4net&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;log4net&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;/Assemblies/Avro/log4net.dll&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you now browse the ADLS  with the Data Explorer, you should have copied the assemblies to both the master and the Avro databases:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/copy_assemblies.PNG&quot; alt=&quot;copy_assemblies&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;create-the-stored-procedure&quot;&gt;Create the Stored Procedure&lt;/h2&gt;
-
-&lt;p&gt;Open the provided  Visual Studio solution at the location &lt;em&gt;..\CloudworxUSQLApplication&lt;/em&gt; and Submit the U-SQL script: &lt;em&gt;sp.usql&lt;/em&gt;. Once you run this script, you should see a stored procedure created in the ADLS Database Avro, in the “Procedures” folder.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Script: sp.usql&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;DROP&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PROCEDURE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;IF&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXISTS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dbo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sp_CreateLogs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;CREATE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;PROCEDURE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dbo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sp_CreateLogs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceStart&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceEnd&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;BEGIN&lt;/span&gt;
-
-    &lt;span class=&quot;n&quot;&gt;REFERENCE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Newtonsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;REFERENCE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;log4net&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;REFERENCE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;REFERENCE&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ASSEMBLY&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Microsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Analytics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Samples&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Formats&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
-
-
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;These&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;external&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;parameters&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;will&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;be&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;populated&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;by&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ADF&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;based&lt;/span&gt; 
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;on&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;slice&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;being&lt;/span&gt;  	&lt;span class=&quot;n&quot;&gt;executed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-    
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXTERNAL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceStart&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;2018/01/01&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;EXTERNAL&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceEnd&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;2018/03/01&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;These&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;are&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;intermediary&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;variables&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;which&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inherit&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;element&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ADF&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;time&lt;/span&gt; 	&lt;span class=&quot;n&quot;&gt;slice&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-    
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearNbr&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceStart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Year&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthNbr&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceStart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Month&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DayNbr&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateSliceStart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Day&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;These&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;are&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;used&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;align&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;Year&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Month&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Day&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partitioning&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;of&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;the&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;input&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;output&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-    &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;This&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;technique&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;also&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;allows&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;U&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;SQL&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dynamically&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;generate&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;different&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;output&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;file&lt;/span&gt; 	 &lt;span class=&quot;o&quot;&gt;//&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;path&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
-    
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearString&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearNbr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ToString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthString&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthNbr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ToString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PadLeft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DayString&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DayNbr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ToString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;().&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;PadLeft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'0'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_file&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; 			     &lt;span class=&quot;nv&quot;&gt;&quot;archivefolder/cloudworxpoceventhubns_cloudworxpoceventhub_0/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;/{*}.avro&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;DECLARE&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output_file&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;string&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;/output/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;/&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;YearString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;MonthString&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;.csv&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-   
-
-    &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;EXTRACT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Body&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;byte&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[]&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_file&lt;/span&gt;
-
-        &lt;span class=&quot;k&quot;&gt;USING&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Microsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Analytics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Samples&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Formats&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ApacheAvro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;AvroExtractor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;
-        {
-            &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;record&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,
-            &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;EventData&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,
-            &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Microsoft.ServiceBus.Messaging&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,
-            &lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;fields&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:[
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;SequenceNumber&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;long&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;},
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Offset&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;},
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;EnqueuedTimeUtc&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;},
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;SystemProperties&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:{&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:				 [&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;long&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;double&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;bytes&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;]}},
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Properties&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:{&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;values&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:						[&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;long&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;double&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;bytes&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;]}},
-                {&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Body&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;:[&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;bytes&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;]}
-            ]
-        }
-    &quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-
-    &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;jsonLogs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Microsoft&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Analytics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Samples&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Formats&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;JsonFunctions&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;JsonTuple&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;Encoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;UTF8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;GetString&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;&quot;..*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-    &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;logs&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;SELECT&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;timestamp&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;Timestamp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-               &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;device&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Device&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-               &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;category&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Category&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-               &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;priority&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Priority&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-               &lt;span class=&quot;n&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;message&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;AS&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Message&lt;/span&gt;
-        &lt;span class=&quot;k&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;jsonLogs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-
-
-
-    &lt;span class=&quot;k&quot;&gt;OUTPUT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;logs&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;TO&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;output_file&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;USING&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Outputters&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-
-&lt;span class=&quot;k&quot;&gt;END&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Based on the @DateSliceStart and the @@DateSliceEnd parameters, the stored procedure builds the @input_file variable to grab raw data files from the data lake. This stored procedure currently looks at a data ingested from a single Event Hub partition (&lt;em&gt;..\cloudworxpoceventhubns_cloudworxpoceventhub_0&lt;/em&gt;).  The stored procedure  could repeat the process for multiple partitions.&lt;/p&gt;
-
-&lt;h2 id=&quot;upload-the-sample-data-to-the-data-lake&quot;&gt;Upload the sample data to the Data Lake&lt;/h2&gt;
-
-&lt;p&gt;If you had followed my previous post on Event Logs Ingestion, you would have a &lt;em&gt;archivefolder&lt;/em&gt; in the Data Lake that contained the raw data. If you have not followed that post, I have provided sample data in the source code folder, in the “Data” folder.  Use the Microsoft Azure Storage Explorer to upload the “archivefolder” to the Data Lake.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/archivefolder.png&quot; alt=&quot;archivefolder&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;test-the-stored-procedure&quot;&gt;Test the Stored Procedure&lt;/h2&gt;
-
-&lt;p&gt;In the ADLS, click on the “New Job” button, paste the following script, and click “Submit”&lt;/p&gt;
-
-&lt;div class=&quot;language-sql highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Avro&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;dbo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sp_CreateLogs&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;2018/01/01&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-                       &lt;span class=&quot;k&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DateTime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Parse&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;&quot;2018/01/31&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This should create an output\01 folder in the Data Lake and create a .CSV file in this folder with the transformed output.&lt;/p&gt;
-
-&lt;p&gt;Now we are done setting up the Data lake; let us set up the Data Factory.&lt;/p&gt;
-
-&lt;h1 id=&quot;setting-up-the-data-factory-adf&quot;&gt;Setting up the Data Factory (ADF)&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Note: we are using version 1 of the Azure Data Factory.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We are going to use Azure Data Factory to schedule monthly runs of the stored procedure we created above. We need to set up the following in the ADF:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Linked Service: Linked services are Azure resources the ADF can target. These could be Blobs, SQL Server,  Data Analytics Accounts, Data Lakes. For our POC we will need linked services for our Data Analytics Account (we need to run the U-SQL stored procedure using it), and the Data Lake (our source data and destination output will reside on the Data Lake).&lt;/li&gt;
-  &lt;li&gt;Data Sets:  Data Sets are JSON documents that describe (among other things) the structure of the data that our source and destination data will implement, and the Linked Service it will use. We will create two data sets: one for the source data, and one for our transformed data.&lt;/li&gt;
-  &lt;li&gt;Pipline:  A Pipeline is a JSON document that describes how the batch transformation will be scheduled, and brings together the input &amp;amp; output data sets.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;creating-the-azure-data-lake-analytics-linked-service&quot;&gt;Creating the Azure Data Lake Analytics Linked Service&lt;/h2&gt;
-
-&lt;p&gt;The ADF must be authorized to access the  Azure Data Lake Analytics Linked Service. In production, you would use &lt;a href=&quot;https://docs.microsoft.com/en-us/azure/data-factory/transform-data-using-data-lake-analytics&quot;&gt;service principal authorization&lt;/a&gt;, but for this POC, you will authorize with your Azure credentials. To do this, follow these steps:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the Microsoft Azure portal, browse to the blade for your data factory, and click the Author and deploy tile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the pane on the left, expand Linked Services, and in the &lt;strong&gt;More&lt;/strong&gt; menu, click New compute, and then click Azure Data Lake Analytics to create a new JSON document for an Azure Data Lake Analytics service.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the new JSON document, replace the default code with the following code. Replace &lt;em&gt;pocanalytics123&lt;/em&gt; in the document below with the name of your Azure Data Lake Analytics account.&lt;/p&gt;
-
-    &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;adl-analytics&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;AzureDataLakeAnalytics&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;typeProperties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;authorization&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;Authorization code is automatically retrieved after 							clicking 'Authorize' and completing the OAuth login&amp;gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;accountName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;pocanalytics123&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;sessionId&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;OAuth session id from the OAuth authorization session. 						Each session id is unique and may only be used once&amp;gt;&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Click Authorize, and when prompted enter your Microsoft account credentials to sign into your Azure subscription – this will verify your identity and generate the authorization code and session ID in the JSON document.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Click Deploy to deploy the linked service definition to your Azure Data Factory.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;creating-the-data-lake-linked-service&quot;&gt;Creating the Data Lake Linked Service&lt;/h2&gt;
-
-&lt;p&gt;Similar to the Analytics Service, the ADF must be authorized to access the  Data Lake  linked service.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;In the Microsoft Azure portal, browse to the blade for your data factory, and click the Author and deploy tile.&lt;/li&gt;
-  &lt;li&gt;Click New data store, and then click Azure Data Lake Store to create a new JSON document for an Azure Data Lake Store. In the new JSON document, replace the default code with the following code. Replace &lt;em&gt;wonderfullake1234&lt;/em&gt;  with the name of your Azure Data Lake Store.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;adl-store&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;AzureDataLakeStore&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;description&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;typeProperties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;authorization&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;Click 'Authorize' to allow this data factory 
-          and the activities it runs to access this Data Lake Store with your access 
-          rights&amp;gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dataLakeStoreUri&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; 	          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://wonderfullake1234.azuredatalakestore.net/webhdfs/v1&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;sessionId&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&amp;lt;OAuth session id from the OAuth authorization session. 
-          Each session id is unique and may only be used once&amp;gt;&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;create-the-source-data-set&quot;&gt;Create the source Data Set&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the Microsoft Azure portal, browse to the blade for your data factory, and click the Author and deploy tile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In the More menu, click New dataset, and then click &lt;em&gt;Azure Data Lake Store&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Copy and paste the following document. (Available at: source code\Azure Data Factory\dsRawData.json )&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dsRawData&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;structure&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;String&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;published&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;AzureDataLakeStore&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;linkedServiceName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;adl-store&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;typeProperties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;folderPath&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;archivefolder/cloudworxpoceventhubns_cloudworxpoceventhub_0/{Year}/{Month}/&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;TextFormat&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;columnDelimiter&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;partitionedBy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Year&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateTime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;date&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;SliceStart&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;yyyy&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Month&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateTime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;date&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;SliceStart&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;MM&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;availability&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;frequency&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Month&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;interval&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;external&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;policy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;validation&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;minimumSizeMB&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.01&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;create-the-destination-data-set&quot;&gt;Create the destination Data Set&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the Microsoft Azure portal, browse to the blade for your data factory, and click the Author and deploy tile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In the More menu, click New dataset, and then click &lt;em&gt;Azure Data Lake Store&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Copy and paste the following document. (Available at: source code\Azure Data Factory\dsTransformed.json )&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dsTransformed&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;structure&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Timestamp&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;String&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Device&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;String&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Category&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;String&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Message&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;String&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;published&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;AzureDataLakeStore&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;linkedServiceName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;adl-store&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;typeProperties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;fileName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;summary.csv&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;folderPath&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;output/summary/{Year}/{Month}&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;TextFormat&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;columnDelimiter&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;,&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;partitionedBy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Year&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateTime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;date&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;SliceStart&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;yyyy&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Month&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateTime&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;date&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;SliceStart&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;format&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;MM&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-                &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;availability&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;frequency&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Month&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;interval&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;create-the-pipeline&quot;&gt;Create the Pipeline&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the Microsoft Azure portal, browse to the blade for your data factory, and click the Author and deploy tile.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In the Pipelines  section, right- click  and select &lt;em&gt;New pipeline&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Copy and paste the following document. (Available at: source code\Azure Data Factory\pipeline.json )&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Pipeline Logs&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;properties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;activities&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;type&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DataLakeAnalyticsU-SQL&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;typeProperties&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;script&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Avro.dbo.sp_CreateLogs(System.DateTime.Parse(@DateSliceStart), System.DateTime.Parse(@DateSliceEnd));&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;degreeOfParallelism&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;priority&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;parameters&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-              &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateSliceStart&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;$$Text.Format('{0:yyyy-MM-ddTHH:mm:ssZ}', SliceStart)&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-              &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DateSliceEnd&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;$$Text.Format('{0:yyyy-MM-ddTHH:mm:ssZ}', SliceEnd)&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;inputs&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-              &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dsRawData&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;outputs&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-              &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;dsTransformed&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;policy&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;timeout&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;01:00:00&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;concurrency&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;executionPriorityOrder&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;OldestFirst&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;retry&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;scheduler&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;frequency&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Month&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-            &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;interval&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;U-SQL Script to Summarize Logs&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-          &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;linkedServiceName&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;adl-analytics&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-        &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    
-      &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;start&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2018-01-01T00:00:00Z&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;end&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2018-02-01T23:59:59Z&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-      &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;pipelineMode&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Scheduled&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Note that we have just scheduled 1 months run (start on Jan 1 and ends on Feb 1). You can change the end month to 12 for all 12 months.&lt;/p&gt;
-
-&lt;h2 id=&quot;verify&quot;&gt;Verify&lt;/h2&gt;
-
-&lt;p&gt;The pipeline should start running and can be viewed under the &lt;em&gt;Monitor &amp;amp; Manage&lt;/em&gt; tab in the Data Factory. Very soon, you should see transformed output in the Data Lake output folder.&lt;/p&gt;
-
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Source Code Link: 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html">Overview</summary></entry><entry><title type="html">A Cost Effective Data Ingestion &amp;amp; Curation Pipeline in Azure</title><link href="http://localhost:4000/2019-05-05/data-ingestion" rel="alternate" type="text/html" title="A Cost Effective Data Ingestion &amp; Curation Pipeline in Azure" /><published>2019-05-05T00:00:00-05:00</published><updated>2019-05-05T00:00:00-05:00</updated><id>http://localhost:4000/2019-05-05/data-ingestion</id><content type="html" xml:base="http://localhost:4000/2019-05-05/data-ingestion">&lt;p&gt;##Introduction&lt;/p&gt;
-
-&lt;p&gt;For analytics data, we would need to store large volumes of data. Storage in CosmosDB or SQL Server is very expensive (for example, in CosmosDB there is a storage charge and a RU charge per query). Storage in Data Lake is cheap, and for cost effectiveness, analytics data  can be persisted/archived in a Data Lake. Please refer to the price comparisons section below.&lt;/p&gt;
-
-&lt;h2 id=&quot;source-code&quot;&gt;Source Code&lt;/h2&gt;
-&lt;p&gt;The source code for this blog post is available here: &lt;a href=&quot;https://github.com/hershbhasin/AzureSamples/tree/master/BigData&quot;&gt;Source Code Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;price-comparison-between-cosmosdb-and-data-lake&quot;&gt;Price Comparison between CosmosDb and Data Lake&lt;/h2&gt;
-
-&lt;p&gt;Here are the price comparisons for storing 1TB of data in a Data Lake vs Cosmos Db. You will note from the following costing that Cosmos db is 88% more expensive than a Data Lake with Data Lake Analytics:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pricing per Microsoft Azure Calculator&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_1.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;CosmosDB&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Per Month 1 TB Storage, 20,000 RU/Sec (1 year reserved. This is the minimum you can reserve on fixed monthly commitment package):&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_2.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Data Lake&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Per month: I TB Storage, 1,000,000 Reads, 1,000,000 writes.  With monthly commitment package, I TB  cost is only $35/Month&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_3.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Conclusion: Cosmos db is 88% more expensive than a Data Lake with Data Lake Analytics&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;justification-for--storing-raw-data-in-data-lake&quot;&gt;Justification for  Storing Raw Data in Data Lake&lt;/h1&gt;
-
-&lt;p&gt;Storage in Data Lakes is cheap and is the preferred storage for Big Data like device event logs. Conceptually, a data lake is nothing more than a data repository. The data lake can store any type of data. Cost and effort are reduced because the data is stored in its original native format with no structure (schema) required of it initially. We can transform the data later as and when need arises. This is the “ELT” strategy in Big Data, where ELT stands for: Extract, Load and Transform. This strategy aligns with the “Schema on Read” technique, where we are able to store data relatively easily, with little upfront investment, then query the data “where it lives” without being required to relocate the data first. This technique  is different from the traditional “ETL” strategy where Transformation occurs before  Load to the data warehouse - this is referred to a “Schema on Write” because the schema, i.e., structure of the data, must be defined before the data is loaded to the data warehouse. This takes time and effort to do correctly. It also means we typically need to define use cases ahead of time in order to validate the schema is correct.&lt;/p&gt;
-
-&lt;p&gt;We would like to treat this data as immutable data because we might want to harvest this data for various purposes, and to go back to a point in time, if necessary. Also, data in Event Hubs are transient, typically held for a week. To persist this data, it is very easy to connect it to a Data Lake. The speed at which data arrives from an Event Hub is a non-issue for a Data Lake, and typically a data lake accommodates both a batch layer (data loaded from batch processes) and a speed layer (data loaded from streaming data or near real-time applications).&lt;/p&gt;
-
-&lt;h1 id=&quot;curating-and-transforming-data&quot;&gt;Curating and Transforming Data&lt;/h1&gt;
-
-&lt;p&gt;Data required for reporting purposes can be curated from the Data Lake. Such curated data can have a schema applied to it. For example data from Event Hubs is stored in the Data Lake with an Avero schema, and the Body is stored as  a byte array. We can transform this data, by applying a custom schema and persist the curated data as either csv files in the Data Lake or to a database table. We can also summarize and aggregate this data and store the summarized data in a curated folder in the Data lake&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Data archived in a Data lake can  be curated as follows:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;As a scheduled batch job: scheduled reports for a period can be made available as csv files (also residing in the Data Lake) and displayed as links to csv files in a  Web Report Area.&lt;/li&gt;
-  &lt;li&gt;As Batch Jobs: users will be able to create any type of report  based on the raw data persisted in the Data Lake. Since all raw data will be  persisted, this will include summarizing / aggregating reports etc. The user will submit his request and a background job will run, the output of which will be a CSV file. When the job is completed, user will get a notification that the report is available as a CSV file on the Report area.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;proof-of-concept&quot;&gt;Proof of Concept&lt;/h1&gt;
-
-&lt;p&gt;I will  now demonstrate how Event Hub data can be stored and curated from  a Data Lake.  In the source code provided, a Event Hub client application will write events to an event hub, The event hub will archive its contents into a Data Lake and a Data Lake Analytics job will curate this data as csv files.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_4.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;create-data-lake-and-data-analytics&quot;&gt;Create Data Lake and Data Analytics&lt;/h2&gt;
-&lt;p&gt;Create a Data Lake Store and a Data Analytics Service. This can be done by running the provided ARM template in source code folder:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ARMTemplates\Data Ingestion\DataLake_DataAnalytics.json. 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You can run the template in the  Azure portal under &lt;em&gt;All Services/ Template (preview).&lt;/em&gt; This will create a DataLake and a Data Analytics service&lt;/p&gt;
-
-&lt;h2 id=&quot;set-up-archive-folder-in-data-lake&quot;&gt;Set Up Archive Folder in Data Lake&lt;/h2&gt;
-
-&lt;p&gt;In this section, you create a folder within the account where you want to capture the data from Event Hubs.&lt;/p&gt;
-
-&lt;p&gt;You also assign permissions to Event Hubs so that it can write data into a Data Lake Storage Gen1 account.&lt;/p&gt;
-
-&lt;p&gt;Open the Data Lake Storage Gen1 account where you want to capture data from Event Hubs and then click on Data Explorer.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_5.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click New Folder and then enter a name for folder where you want to capture the data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_6.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Assign permissions at the root of Data Lake Storage Gen1.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;a. Click Data Explorer, select the root of the Data Lake Storage Gen1 account, and then click Access.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_7.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;b. Under Access, click Add, click Select User or Group, and then search for Microsoft.EventHubs.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_8.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click Select.&lt;/p&gt;
-
-&lt;p&gt;c. Under Assign Permissions, click Select Permissions. Set Permissions to Execute. Set Add to to This folder and all children. Set Add as to An access permission entry and a default permission entry.&lt;/p&gt;
-
-&lt;p&gt;Important&lt;/p&gt;
-
-&lt;p&gt;When creating a new folder hierarchy for capturing data received by Azure Event Hubs, this is an easy way to ensure access to the destination folder. However, adding permissions to all children of a top level folder with many child files and folders may take a long time. If your root folder contains a large number of files and folders, it may be faster to add Execute permissions for Microsoft.EventHubs individually to each folder in the path to your final destination folder.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_9.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click OK.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Assign permissions for the folder under the Data Lake Storage Gen1 account where you want to capture data.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;a. Click Data Explorer, select the folder in the Data Lake Storage Gen1 account, and then click Access.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_10.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;b. Under Access, click Add, click Select User or Group, and then search for Microsoft.EventHubs.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_12.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click Select.&lt;/p&gt;
-
-&lt;p&gt;c. Under Assign Permissions, click Select Permissions. Set Permissions to Read, Write,and Execute. Set Add to to This folder and all children. Finally, set Add as to An access permission entry and a default permission entry.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ingest_13.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Click OK.&lt;/p&gt;
-
-&lt;h2 id=&quot;create-an-event-hub-and-set-it-up-to-archive-to-the-archive-folder-set-up-above&quot;&gt;Create an Event Hub and set it up to Archive to the Archive Folder set up above&lt;/h2&gt;
-&lt;p&gt;In the source code folder, I have provided an ARM template called :&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ARMTemplates\Data Ingestion\EventHub_DataLake.json.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You can run the template in the  Azure portal under &lt;em&gt;All Services/ Template (preview)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Running this template will create an Event Hub and set it up to capture Event Hub data to the archivefolder of the DataLake created earlier.&lt;/p&gt;
-
-&lt;p&gt;If you look at the Capture section of the eventhub, you will notice that:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Capture has been turned on&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Capture will happen every 5 min&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Empty headers will not be written (otherwise you will have empty files created)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Event Hub points to the data lake created earlier&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Points to the archivefolder&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Capture File format has been set to:&lt;/p&gt;
-
-    &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;s2&quot;&gt;&quot;{Namespace}_{EventHub}_{PartitionId}/{Year}/{Month}/{Day}_{Hour}_{Minute}_{Second}&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;The Data Lake will accumulate avro files by month. Look at the &lt;em&gt;data/archive&lt;/em&gt; folder in the source code to see how the data will be stored in the data lake&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Once created, Event Hub will save the events as avro files in Data Lake Store every 1 minute.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/ingest_14.PNG&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;sending-data-to-event-hub&quot;&gt;Sending data to Event Hub&lt;/h1&gt;
-&lt;p&gt;A sample Event Hub events generator C# Console Application has been provided in the source code at: &lt;em&gt;..\EventHubClient\SampleSender&lt;/em&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Get the Event Hub connection string from Settings/Shared access policies&lt;/li&gt;
-  &lt;li&gt;Update variable EventHubConnectionString in program.cs in provided sample: &lt;em&gt;SampleSender&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Run the sample app&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Sample Message Sent to Event Hub&lt;/strong&gt;&lt;/p&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;timestamp&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-04-22T16:20:36.480717-05:00&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;device&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Room Book 1001&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;category&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Network&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;priority&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Warning&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;message&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Login Timeout&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;project&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Richardson&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;tenant&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;ABC Integrators&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h1 id=&quot;transform--the-data&quot;&gt;Transform  the Data&lt;/h1&gt;
-
-&lt;p&gt;In the source code provided, open the solution &lt;em&gt;CloudworxUSQLApplication&lt;/em&gt; in Visual Studio.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Register assemblies&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Copy the following files from your CloudworxUSQLApplication/Lib directory to a directory in Azure Data Lake Store (e.g. \Assemblies\Avro):&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Microsoft.Analytics.Samples.Formats.dll&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Avro.dll&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;log4net.dll&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Newtonsoft.Json.dll&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Open Project CloudworxUSQLApplication in Visual Studio and:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create a database ( run &lt;em&gt;1-CreateDB.usql.cs&lt;/em&gt;), switch to the new database&lt;/li&gt;
-  &lt;li&gt;Check file paths in &lt;em&gt;2-RegisterAssemblies.usql&lt;/em&gt; and update them if necessary&lt;/li&gt;
-  &lt;li&gt;register the assemblies which have previously been uploaded to ADLS by submitting &lt;em&gt;2-RegisterAssemblies.usql&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Run &lt;em&gt;logs.usql&lt;/em&gt; job&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-archive-eventhub-capture&quot;&gt;Microsoft Documentation&lt;/a&gt;&lt;/p&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html">##Introduction</summary></entry><entry><title type="html">Introducing Tale</title><link href="http://localhost:4000/2017-03-29/introducing-tale" rel="alternate" type="text/html" title="Introducing Tale" /><published>2017-03-29T00:00:00-05:00</published><updated>2017-03-29T00:00:00-05:00</updated><id>http://localhost:4000/2017-03-29/introducing-tale</id><content type="html" xml:base="http://localhost:4000/2017-03-29/introducing-tale">&lt;p&gt;Tale is a minimal &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme curated for storytellers. It is designed and developed by &lt;a href=&quot;https://github.com/chesterhow/&quot;&gt;myself&lt;/a&gt; for a friend who writes short stories.&lt;/p&gt;
-
-&lt;h2 id=&quot;tale-features&quot;&gt;Tale features&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Compatible with GitHub Pages&lt;/li&gt;
-  &lt;li&gt;Responsive design (looks just as good on mobile)&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, with the help of Pygments&lt;/li&gt;
-  &lt;li&gt;Markdown and HTML text formatting&lt;/li&gt;
-  &lt;li&gt;Pagination of posts&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Head over to the &lt;a href=&quot;/2017-03-16/example-content&quot;&gt;Example Content&lt;/a&gt; post for a showcase of Tale’s text formatting features.&lt;/p&gt;
-
-&lt;h2 id=&quot;browser-support&quot;&gt;Browser Support&lt;/h2&gt;
-&lt;p&gt;Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼&lt;/p&gt;
-
-&lt;h2 id=&quot;download-or-contribute&quot;&gt;Download or Contribute&lt;/h2&gt;
-&lt;p&gt;Tale is publicly hosted on GitHub, so go ahead and download or fork it at the &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;GitHub repository&lt;/a&gt;. If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.&lt;/p&gt;
-
-&lt;p&gt;Thanks for checking out Tale!&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Tale is a minimal Jekyll theme curated for storytellers. It is designed and developed by myself for a friend who writes short stories.</summary></entry><entry><title type="html">Example Content</title><link href="http://localhost:4000/2017-03-16/example-content" rel="alternate" type="text/html" title="Example Content" /><published>2017-03-16T00:00:00-05:00</published><updated>2017-03-16T00:00:00-05:00</updated><id>http://localhost:4000/2017-03-16/example-content</id><content type="html" xml:base="http://localhost:4000/2017-03-16/example-content">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.&lt;/p&gt;
-
-&lt;h1 id=&quot;headers&quot;&gt;Headers&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gh&quot;&gt;# H1&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;## H2&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;### H3&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;#### H4&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;##### H5&lt;/span&gt;
-&lt;span class=&quot;gu&quot;&gt;###### H6&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
-&lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
-&lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
-&lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
-&lt;h5 id=&quot;h5&quot;&gt;H5&lt;/h5&gt;
-&lt;h6 id=&quot;h6&quot;&gt;H6&lt;/h6&gt;
-
-&lt;h1 id=&quot;text-formatting&quot;&gt;Text formatting&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;gs&quot;&gt;**Bold**&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; _Italics_
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; ~~Strikethrough~~
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;ins&amp;gt;&lt;/span&gt;Underline&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ins&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;sup&amp;gt;&lt;/span&gt;Superscript&lt;span class=&quot;nt&quot;&gt;&amp;lt;/sup&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;sub&amp;gt;&lt;/span&gt;Subscript&lt;span class=&quot;nt&quot;&gt;&amp;lt;/sub&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; Abbreviation: &lt;span class=&quot;nt&quot;&gt;&amp;lt;abbr&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;HyperText Markup Language&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;HTML&lt;span class=&quot;nt&quot;&gt;&amp;lt;/abbr&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; Citation: &lt;span class=&quot;nt&quot;&gt;&amp;lt;cite&amp;gt;&lt;/span&gt;&lt;span class=&quot;ni&quot;&gt;&amp;amp;mdash;&lt;/span&gt; Chester How&lt;span class=&quot;nt&quot;&gt;&amp;lt;/cite&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Italics&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Strikethrough&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;ins&gt;Underline&lt;/ins&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;sup&gt;Superscript&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;sub&gt;Subscript&lt;/sub&gt;&lt;/li&gt;
-  &lt;li&gt;Abbreviation: &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;/abbr&gt;&lt;/li&gt;
-  &lt;li&gt;Citation: &lt;cite&gt;— Chester How&lt;/cite&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;lists&quot;&gt;Lists&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;1.&lt;/span&gt; Ordered list item 1
-&lt;span class=&quot;p&quot;&gt;2.&lt;/span&gt; Ordered list item 2
-&lt;span class=&quot;p&quot;&gt;3.&lt;/span&gt; Ordered list item 3
-&lt;span class=&quot;p&quot;&gt;
-*&lt;/span&gt; Unordered list item 1
-&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Unordered list item 2
-&lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; Unordered list item 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ordered list item 1&lt;/li&gt;
-  &lt;li&gt;Ordered list item 2&lt;/li&gt;
-  &lt;li&gt;Ordered list item 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Unordered list item 1&lt;/li&gt;
-  &lt;li&gt;Unordered list item 2&lt;/li&gt;
-  &lt;li&gt;Unordered list item 3&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;links&quot;&gt;Links&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;Check out tale on &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;GitHub&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://github.com/chesterhow/tale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out tale on &lt;a href=&quot;https://github.com/chesterhow/tale&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;images&quot;&gt;Images&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;p&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Placeholder image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://placehold.it/800x400&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;Placeholder image&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;![&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;Image with caption&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;](&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;https://placehold.it/700x400&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;&quot;Image with caption&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;ge&quot;&gt;_This is an image with a caption_&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://placehold.it/800x400&quot; alt=&quot;Placeholder image&quot; title=&quot;Placeholder image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://placehold.it/700x400&quot; alt=&quot;Image with caption&quot; title=&quot;Image with caption&quot; /&gt;
-&lt;em&gt;This is an image with a caption&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h1&gt;
-&lt;p&gt;Use back-ticks for &lt;code class=&quot;highlighter-rouge&quot;&gt;inline code&lt;/code&gt;. Multi-line code snippets are supported too through Pygments.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sample javascript code&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Sample python code
-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Adding &lt;code class=&quot;highlighter-rouge&quot;&gt;linenos&lt;/code&gt; to the Pygments tag enables line numbers.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// Sample javascript code&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h1 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;&lt;span class=&quot;gt&quot;&gt;&amp;gt; Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;On the purpose of writing this essay, Ramanujan says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;This story is usually told to suggest that for every such Rama there is a Ramayana. The number of Ramayanas and the range of their influence in South and Southeast Asia over the past twenty-five hundred years or more are astonishing. Just a list of languages in which the Rama story is found makes one gasp: Annamese, Balinese, Bengali, Cambodian, Chinese, Gujarati, Javanese, Kannada, Kashmiri, Khotanese, Laotian, Malaysian, Marathi, Oriya, Prakrit, Sanskrit, Santali, Sinhalese, Tamil, Telugu, Thai, Tibetan—to say nothing of Western languages. Through the centuries, some of these languages have hosted more than one telling of the Rama story. Sanskrit alone contains some twenty-five or more-telling belonging to various narrative genres (epics, kavyas or ornate poetic compositions, puranas or old mythological stories, and so forth). If we add plays, dance-dramas, and other performances, in both the classical and folk traditions, the number of Ramayanas grows even larger. To these must be added sculpture and bas-reliefs, mask plays, puppet plays, and shadows plays, in all the many South and Southeast Asian cultures.” Camille Bulcke (1950), a student of the Ramayana, counted three hundred tellings. It’s no wonder that even as long ago as the fourteenth century, Kumaravyasa, a Kannada poet, chose to write a Mahabharata, because he heard the cosmic serpent which upholds the earth groaning under the burden of Ramayana poets (tinikidanu phaniraya ramayanada kavigala bharadali). In this paper, indebted for its data to numerous previous translators and scholars, I would like to sort out for myself, and I hope for others, how these hundreds of telling of a story in different cultures, languages, and religious traditions relate to each other: what gets translated, transplanted, transposed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h1 id=&quot;horizontal-rule--line-break&quot;&gt;Horizontal Rule &amp;amp; Line Break&lt;/h1&gt;
+&lt;p&gt;Ramanujan wrote this essay to get his head around the three hundred versions of Ramayanas he found in popular culture. In his analysis of the literature of Ramayana, he differed from the classic analysis of Indian traditions as a unity in diversity, an “upstairs/downstairs” view of India. The “Great Traditions” written in Sanskrit for the elite; and the vernacular folk tales, the “Little Traditions” for the “little” folks– the semi illiterate, rural regional people, competent only in the mother tongue. The upstairs/downstairs view maintained that there was no essential difference in the motifs, the ideas found in the two traditions, only in quality. Ramanujan did not agree with this view. He said that Indian traditions were like trousers, singular at top, plural at the bottom. Using the example of a Ramayana from both traditions, Valmiki’s Ramayana in Sanskrit, considered to be the original or Ur-text, a “Great Tradition”, and Kampan’s Ramayana (Iramavataram), in Tamil, the “Little” tradition, he showed that though later Ramayanas base their weave and textures on previous Ramayanas, their colors are very different. In a sense subsequent works are like Ragas or Jazz, maintaining the essential story structure and characters but freely improvising the melody. Not only this, each Ramayana generates its own offspring. For example, the Tamil Kampan Ramayana is an important link in transmission of the Rama story to South East Asia. It has been convincingly shown that the eighteenth century Thai Ramekin owes much to the Tamil epic. There are differences in the Jain telling. Here Rama does not even kill Ravana, as he does in the Hindu Ramayana. For Rama is an evolved Jain soul. This is his last birth, so is loath to kill anything. In the Jain version, Lakshmana slays Ravana. In the oral traditions of the untouchable bards of South India, Ravana eats a magical mango and becomes pregnant with Sita. He sneezes and Sita (with means “he sneezed”), is born of the sneeze. Hence, in this tradition, Sita is Ravana’s daughter. He puts Sita in a box and leaves her in Janaka’s field. Outside India, there are a variety of telling of the Rama story in Tibet, Thailand, Burma, Laos, Cambodia, Malaysia, Java and Indonesia, each with different telling.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-markdown&quot; data-lang=&quot;markdown&quot;&gt;Use &lt;span class=&quot;sb&quot;&gt;`&amp;lt;hr&amp;gt;`&lt;/span&gt; for horizontal rules
+&lt;p&gt;The essential point that Ramanujan makes in this essay is that the “Little Tradition” at the bottom is plural and not singular. There is no one single Ramayana, with a singular message at the level of the little people, at the level of the illiterate rural people who rejoice in folk tales, in the grandmother stories told in the popular tongue. However, the fundamentalists, together with the Delhi University, disagrees with this interpretation. For them there is only a single interpretation, a single message that the Ramayana conveys, and all the other Ramayanas are mere blemishes, for which A.K Ramanujan is to be held personally responsible for bringing to light. Hence A.K. Ramanujan is persona non-grata with the Delhi University, and the hardliners, and hence he, together with the 299 other Ramayanas are to be erased and blotted from memory.&lt;/p&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html">I recently read The Collected Essays of A.K.Ramanujan. I bought the book to read an essay called “Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation”, an essay written by Ramanujan in 1987. I was unaware of the existence of this essay, and of Ramanujan, till I learnt that the Delhi University had removed this essay from its BA required reading list after protests from blinkered religious zealots. I then wanted to find out more of this person whose writing had caused offence, posthumously.</summary></entry><entry><title type="html">The Charvakas</title><link href="http://localhost:4000/2018-05-03/charvaka" rel="alternate" type="text/html" title="The Charvakas" /><published>2018-05-03T00:00:00-05:00</published><updated>2018-05-03T00:00:00-05:00</updated><id>http://localhost:4000/2018-05-03/charvaka</id><content type="html" xml:base="http://localhost:4000/2018-05-03/charvaka">&lt;p&gt;&lt;img src=&quot;/assets/charvarka_1.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;hr&amp;gt;&lt;/span&gt;
+&lt;p&gt;The Charvaka system of philosophy  was an extreme materialistic system of philosophy that predates Buddhism. The Charvakas rejected all indirect methods of knowledge (hearsay, holy books, inference etc.) They said that  consciousness is a property of matter that comes with the body and goes away with it, nothing mystical about it. Consciousness meaning awareness, the ability to know things. When we cannot know things (an unjust nature, sickness, death  etc.) and we accept explanations provided by holy books etc, we assuage our angst, but close the debate.&lt;/p&gt;
 
-and &lt;span class=&quot;sb&quot;&gt;`&amp;lt;br&amp;gt;`&lt;/span&gt; for line breaks.
+&lt;p&gt;This was Albert Camu’s position too: that paradoxical situation between our impulse to ask ultimate questions and the impossibility of achieving any adequate answer is what Camus calls the absurd. Camus says that the  consciousness of the absurdity inherent in absurd questions is to be kept alive, and not resolved by a “leap of faith onto God,” as Kierkegaard suggested, for though that gives one answers, it closes further debate.  Such unanswered absurd questions lead to angst,  and Camus wants to keep alive the angst of such unanswered  questions, and not close the debate by accepting answers provided by the holy books: he wants  to see if “thoughts can live in those deserts.”&lt;/p&gt;
 
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;br&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Like the Charvakas, he appears to say that consciousness is the light that appears as friction between man and his dealing with the world. In his famous essay, “The Myth Sisyphus,” the gods had condemned Sisyphus to ceaselessly roll a rock to the top of a mountain. In spite of this futile and hopeless labor, Camus says that Sisyphus is to be thought of as happy because he remains aware of his absurd toil:  his consciousness, that separates him from brute nature, is not smothered. For:&lt;/p&gt;
 
-&lt;p&gt;Use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr&amp;gt;&lt;/code&gt; for horizontal rules&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;When the universe comes to destroy man, man will still be nobler than that which tries to destroy him, because in his death man knows he is dying and of its victory, the universe knows absolutely nothing (Pascal.)&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html"></summary></entry><entry><title type="html">Reading of Kafka’s Trial in light of Foucault’s writings</title><link href="http://localhost:4000/2018-04-08/kafka-the-trial" rel="alternate" type="text/html" title="Reading of Kafka’s Trial in light of Foucault’s writings" /><published>2018-04-08T00:00:00-05:00</published><updated>2018-04-08T00:00:00-05:00</updated><id>http://localhost:4000/2018-04-08/kafka-the-trial</id><content type="html" xml:base="http://localhost:4000/2018-04-08/kafka-the-trial">&lt;p&gt;&lt;img src=&quot;/assets/trial_1.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;The totalitarian state described by George Orwell in his novel “1984” controls with fear, terror and overt physical violence, but the state that Joseph K. experiences in Kafka’s novel, “The Trial” uses physiological techniques— it controls by creating societal norms of behavior that its subjects self-impose on themselves. The state described in Orwell’s book 1984 is a terror state. No thought, no action of its subjects escapes Big Brother’s notice. The consciousness of its subjects are pounded into submission. Winston Smith’s mind is altered by subjecting him to the punishment he feared most— a cage of rats strapped to his face. The state (or the court, the “Law”) depicted by Kafka in The Trial on the other hand is very different. Joseph K. is never restricted in his movements or his thoughts. His freedom of speech is never curtailed infact he is often vocal in expressing his opinions. The state in which Smith lives uses propaganda, surveillance and explicit force to change his consciousness. Joseph K., on the other hand self-disciplines himself. He submits himself to the unconscious, subliminal structures of discipline set up by society. Winston Smith lives in totalitarian state, Joseph K. in the equivalent a modern day civilized state.&lt;/p&gt;
 
-&lt;p&gt;and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt; for line breaks.&lt;/p&gt;
+&lt;h2 id=&quot;self-dicipline&quot;&gt;SELF DICIPLINE&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The subjection of Joseph K. to self discipline is seen in the opening paragraph of The Trial. Joseph K. summons his own trial by ringing a bell. (Later in chapter 8, we learn of a legend that trials of all accused men are begun by the ringing of the bell ). The outside world has failed to serve him: the cook who brought him his breakfast every morning does not appear that morning. By ringing the bell, Joseph K. summons the authorities and initiates his own trial. The guard who appears at his bedroom door, we are told is called Franz, Franz Kafka’s namesake, indicating that like most of Kafka’s works, The Trial is autographical. Joseph K. is Franz Kafka’s (Jungian) shadow, and in another scene, the guard called Franz and Joseph K. engage in a long and meaningful staring match. The psychiatrist Carl Jung describes a conscious and an unconscious part to a man’s psyche, and also points to a collective conscious and unconscious part of society. The “memory” of a people resides in the collective unconscious of the society as “archetypes”, which are universal patterns of human behavior. These archetypes are the “habits” of a society, which are persisted as memories of the species and like habits, they can be good or bad. Kafka’s writings often leads us down the cellar of the mind to reveal our Jungian “shadow” self, the often grotesque and repressed bad part of ourself. In The Trial, Kafka shows us the “shadow” of our collective society.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;The end&lt;/em&gt;&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/2017-03-10/welcome-to-jekyll" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-03-10T00:00:00-06:00</published><updated>2017-03-10T00:00:00-06:00</updated><id>http://localhost:4000/2017-03-10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2017-03-10/welcome-to-jekyll">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;h2 id=&quot;mass-surveillance&quot;&gt;Mass Surveillance&lt;/h2&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;In Joseph K’s world, discipline permeates the subconscious minds of society, it is the part of everyday subliminal warp and woof of life. There is no distinction between Joseph K.’s private and public spheres of life — everyone in Joseph K.’s life, including those he thought to belong to his private sphere, turn out to have some connection to the court. In his world, rules, stereotypes and social norms are interiorized by the people and discipline is self effected, without violence, struggle or incarnation. The Trial starts by Joseph K. ringing the bell to initiate his trial, and later in the book when he refuses to be interrogated, and when no call comes from the court, he does not believe that his refusal had been taken literally, and so goes to the court on his own accord. The philosopher Micheal Foucault says that in a civilized society we willingly accept surveillance, to be monitored by the powers to be. We accept this because we feel we have not done anything wrong so why should we be afraid of surveillance? But being watched is the surest way of our complying with social norms. In his research on the prison system, Foucault talks about an architectural design originally intended to be implemented in prisons called the Panopticon. Such a prison design has the cells arranged around the perimeter of a circle with a watchman’s tower, the Panopticon in its center. From this tower, the watchman can observe the inmates. Although, it is physically impossible for the single watchman to observe all cells at once, the fact that the inmates cannot know when they are being watched means that all inmates must act as though they are watched at all times, effectively controlling their own behavior constantly. Foucault realized that such a arrangement could be used in any institution that seeks to control human behavior: schools, hospitals, factories, the “open” workspaces of our offices…&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets: like these&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Panopticon&lt;/strong&gt;
+&lt;img src=&quot;/assets/trial_2.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;An Open Office&lt;/strong&gt;
+&lt;img src=&quot;/assets/trial_3.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Jekyll</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">The Case of the Missing Post</title><link href="http://localhost:4000/2017-03-07/the-case-of-the-missing-post" rel="alternate" type="text/html" title="The Case of the Missing Post" /><published>2017-03-07T00:00:00-06:00</published><updated>2017-03-07T00:00:00-06:00</updated><id>http://localhost:4000/2017-03-07/the-case-of-the-missing-post</id><content type="html" xml:base="http://localhost:4000/2017-03-07/the-case-of-the-missing-post">&lt;p&gt;Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.&lt;/p&gt;
+&lt;p&gt;With mass surveillance, we might put an end to crime for ever. No one could steal anything and get away. On the surface, this might seem like a wonderful thing to have but is it such an unmitigated good? What we are in effect saying is that our customs, laws and traditions have become so refined and so developed that no further refinements are possible. We will freeze our laws and customs in time, and any divergence from them will be a crime ; we will create standards of acceptable behavior and stereotypes of race and religion, of which no transgression will be permitted. In such a society no further social change will be possible. If we look back, every social change movement in the past, be it the abolition of slavery, the emancipation of women, the advancement of human rights, marriage equality, freedom of religion, or voting rights— all these movements were criminal in the beginning. An omniscient state that will enforce all the laws perfectly as currently written down will allow no digression from the written law, and in such a state no further social change will be possible. We will be singled out by the state only if we dissent from the established norms. In the words of &lt;a href=&quot;https://www.ted.com/talks/glenn_greenwald_why_privacy_matters&quot;&gt;Glen Greenwald&lt;/a&gt;, “We have to be so average, so harmless that we are uninteresting to the ones in power. “&lt;/p&gt;
 
-&lt;p&gt;Sit in window and stare ooo, a bird! yum. Sit and stare. Sweet beast loves cheeseburgers. Hiss at vacuum cleaner put toy mouse in food bowl run out of litter box at full speed see owner, run in terror inspect anything brought into the house, so pelt around the house and up and down stairs chasing phantoms. Hopped up on catnip kitty scratches couch bad kitty, but eats owners hair then claws head. Lie on your belly and purr when you are asleep kitty power! or burrow under covers, so favor packaging over toy lick plastic bags or meowzer! yet unwrap toilet paper.&lt;/p&gt;
+&lt;h2 id=&quot;normalizing-judgement&quot;&gt;Normalizing Judgement&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.catipsum.com/&quot;&gt;Cat Ipsum&lt;/a&gt;&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.</summary></entry><entry><title type="html">The Mystery of the Filler Post</title><link href="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post" rel="alternate" type="text/html" title="The Mystery of the Filler Post" /><published>2017-03-06T00:00:00-06:00</published><updated>2017-03-06T00:00:00-06:00</updated><id>http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post</id><content type="html" xml:base="http://localhost:4000/2017-03-06/the-mystery-of-the-filler-post">&lt;p&gt;Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.&lt;/p&gt;
+&lt;p&gt;When, with mass surveillance, a societies customs and laws are frozen in time and implementation of laws are impeccable and no one can transgress our laws; then what we have done is we have “normalized judgement.” In other words we have codified our standards of behavior into laws and entered them in our “Registries of Knowledge”: our databases and law books. According to Foucault, the process of classification of behavior and the “institutionalization of the psyche” was first started in the psychiatric wards, where madness was recorded in ever increasing detail, and carried over to other parts of our society. We have a norm, a scale for everything: percentile ranks in classrooms, the personality tests that many companies ask their employees to take, the corporate ladders that we seek to climb. We willingly and eagerly offer to add ourselves to the “registries of knowledge” by answering questionnaires, opting in to have our buying behaviors, our likes and dislikes tracked, by our Facebook and Twitter posts which we know will be harvested by data gathering techniques.&lt;/p&gt;
 
-&lt;p&gt;Bilge jolly boat barque topsail interloper chandler spanker scuttle Arr sloop. Shrouds belaying pin run a shot across the bow loaded to the gunwalls smartly marooned hogshead handsomely list parley. Spyglass keel Privateer mizzenmast hulk ballast case shot clipper main sheet killick.&lt;/p&gt;
+&lt;h2 id=&quot;registries-of-discipline&quot;&gt;Registries of Discipline&lt;/h2&gt;
 
-&lt;p&gt;Careen hempen halter Letter of Marque pillage swing the lead take a caulk Sail ho jury mast walk the plank ho. Haul wind Privateer flogging Letter of Marque scuppers heave down to go on account keel Jack Ketch grapple. Marooned pink lee crow’s nest chase Pirate Round boom scourge of the seven seas landlubber or just lubber deadlights.&lt;/p&gt;
+&lt;p&gt;At one point in The Trial, Joseph K. feels that the only hope for his trial is to write down a full and complete account of himself, his “Petition” and with this act he hoped to be finally intelligible to the powers of the state&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://pirateipsum.me/&quot;&gt;Pirate Ipsum&lt;/a&gt;&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.</summary></entry><entry><title type="html">Pagination Post</title><link href="http://localhost:4000/2017-03-05/pagination-post" rel="alternate" type="text/html" title="Pagination Post" /><published>2017-03-05T00:00:00-06:00</published><updated>2017-03-05T00:00:00-06:00</updated><id>http://localhost:4000/2017-03-05/pagination-post</id><content type="html" xml:base="http://localhost:4000/2017-03-05/pagination-post">&lt;p&gt;Hi There
-Here we see &lt;strong&gt;Tale’s&lt;/strong&gt; pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;</content><author><name>Chester</name></author><summary type="html">Hi There Here we see Tale’s pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the _config.yml file!</summary></entry></feed>
+&lt;blockquote&gt;
+  &lt;p&gt;Admittedly, the petition meant an almost endless task. One needn’t be particularly faint of heart to be easily persuaded of the impossibility of ever finishing the petition. Not because of laziness or deceit, the only things that kept the lawyer from finishing, but because without knowing the nature of the charge and all its possible ramifications,his entire life, down to the smallest actions and events, would have to be called to mind, described, and examined from all sides. – (The Trial: Lawyer – Manufacturer – Painter)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Foucault writes about “Registries of Discipline” which has a counterpart in our modern day databases in which our behavior and activities are recorded and compared to established “norms.” This has the echo of the “Petition” that Joseph K. writes for he feels that the only hope for his trial is a full and complete account of himself. In the opening chapter of The Trial, when the guards come to arrest Joseph K., he feels compelled to present to them a document that proves that he is an authorized human being. He goes to his room and searches for his Birth Certificate: a document that first recorded his existence as a official human being in the registries of the bureaucratic machinery of the state.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-effect-becomes-the-cause&quot;&gt;The Effect Becomes The Cause&lt;/h2&gt;
+
+&lt;p&gt;When we stereotype a race or a people, future generations of such people develop the characteristics and behaviors expected by the stereotype: the effect becomes the cause. In chapter 19 of The Trial, “The Cathedral”, the priest says to Joseph K.,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The judgement isn’t simply delivered at some point; the proceedings gradually merge into the judgement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And, at the moment of Joseph K.’s death at the end of the novel, his executioners,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;drew near his face leaning cheek to cheek to observe the verdict.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Joseph K.’s death is not an effect of his guilt, his punishment is his verdict! People stereotyped are judged first and then they live up to the expectations of the guilt for which they are punished. Stereotypes are persisted as habits of the society, as archetypes in the “collective unconscious” of society that Jung writes about. Jung also talks of a certain type of archetype which he calls the “shadow”, which is that part of ourselves that is so grotesque that we repress it. The process of becoming a whole, complete personality, the process that Jung called “Individuation” involves becoming aware of the shadow and trying to assimilate it in our conscious personality. While some traits of the shadow are recognized as one’s personal qualities and with good will and insight might be assimilated into one’s conscious personalty, there are some traits that vehemently resist integration. These are the personal negative traits that a person feels does not belong to him but to another person. He “projects” his negative traits on to another and he hates the other for his own projected shadow traits.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The Trial seems to suggest that we as a society willingly accept surveillance, create our stereotypes, accept registries of discipline and so forth and refuse to accept that it is us doing all these things. We blame it on the other, we “transfer” our own negative traits on to others and then blame them. This is our societies “shadow”.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UmfH2KOTx4g&quot;&gt;Foucault Reads Kafka by Brian Artese&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/glenn_greenwald_why_privacy_matters&quot;&gt;Glenn Greenwald: Why Privacy Matters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html"></summary></entry><entry><title type="html">Baijirao Mastani</title><link href="http://localhost:4000/2018-03-03/baijirao-mastani" rel="alternate" type="text/html" title="Baijirao Mastani" /><published>2018-03-03T00:00:00-06:00</published><updated>2018-03-03T00:00:00-06:00</updated><id>http://localhost:4000/2018-03-03/baijirao-mastani</id><content type="html" xml:base="http://localhost:4000/2018-03-03/baijirao-mastani">&lt;p&gt;&lt;img src=&quot;/assets/bajirao_1.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Baijirao Mastani is a Bollywood movie about a great Hindu Brahmin &lt;em&gt;Peshwa&lt;/em&gt; (Prime Minster) who is credited with expanding the Maratha Empire to almost all of present day India. This movie panders to the seemingly newly found “Hindu” pride,  subtly packaged as the nationalistic “Proud to be a Hindu”  message of  a Hindu  Brahmin &lt;em&gt;Peshwa&lt;/em&gt; who promises to bring the concept of the Kingdom of  God, the &lt;em&gt;Ram Rajya&lt;/em&gt; to fruition. What was not shown in the movie was the treatment of the   “untouchable” castes, particularly the Mehar class, during the time of the Peshwa.   This is the dark side of the Hindu society: the flip side of a &lt;em&gt;Ram-Rajya&lt;/em&gt; is an unequal caste based society (the Chaturvarnya) , sanctified by scriptures. Dr. Baba Sahib Ambedkar belonged to the  untouchable Mahar caste mentioned earlier.  He reports how his people were treated under the reign of the Peshwas in his hand written manuscript,  &lt;a href=&quot;http://www.ambedkar.org/ambcd/57. Manu and the Shudras.htm&quot;&gt;Manu and the Shudras&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Under the rule of the Marathas and the Peshwas the Untouchables were not allowed within the gates of Poona city, the capital of the Peshwas between 3 p.m and 9 a. m. because, before nine and after three, their bodies cast too long a shadow and whenever their shadow fell upon a Brahmin it polluted him, so that he dare not taste food or water until he had bathed and washed the impurity away. So also no Untouchable was allowed to live in a walled town cattle and dogs could freely enter but not the Untouchables. Under the rule of the Marathas and the Peshwas the Untouchables might not spit on the ground lest a Hindu should be polluted by touching it with his foot, but had to hang an earthen pot round his neck to hold his spittle. He was made to drag a thorny branch of a tree with him to brush out his footsteps and when a Brahman came by, had to lie at a distance on his face lest his shadow might fall on the Brahman&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;According to the Oxford English Dictionary, Hindutva is an ideology seeking to establish the hegemony of Hindus and the Hindu way of life. The revival of the Hindu Pride movement (or Hinduvta, as it is called) is led by the Hindu nationalist organization  Rashtriya Swayamsevak Sangh (RSS) in India. RSS is the “intellectual” arm of the Bharatya Janta Party (BJP),  the party that the Indian Prime Minister Narendra  Modi belongs to, and one that  was  instrumental in bringing him  to power.  BJP adopted “Hinduvta” as its official ideology in 1989. This is the reality of the politics of Hindutava:  that there cannot be a Ram-Rajya without discrimination and disparity among the people. The caste structure is sanctioned by scripture. Reference may be made to Dr Ambedkar’s book, &lt;a href=&quot;http://www.ambedkar.org/ambcd/38A. Who were the Shudras Preface.htm#PRE&quot;&gt;Who were the Shudras&lt;/a&gt;  for a comprehensive study of the caste system. The sanction for the caste system comes from the ninetieth Hymn of the Tenth Mandala of the Rig Veda— a Hymn, which is known by the famous name of Purusha Sukta. The Purusha Sukta makes the Chaturvarnya (the caste system) a sacred institution, a divine ordination. In his book &lt;a href=&quot;http://www.ambedkar.org/ambcd/38A. Who were the Shudras Preface.htm#PRE&quot;&gt;Who were the Shudras, &lt;/a&gt;Ambedkar writes&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The scheme of the Purusha Sukta is unique, inasmuch as it fixes a permanent warrant of precedence among the different classes, which neither time nor circumstances can alter. The warrant of precedence is based on the principle of graded inequality among the four classes, whereby it recognises the Brahmin to be above all, the Kshatriya below the Brahmin but above the Vaishya and the Shudra, the Vaishya below the Kshatriya but above the Shudra and the Shudra below all.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Out of the many gods in the Hindu mythology, Lord Ram has been chosen by the BJP as their preferred god. Ram-Rajya (the rule of Lord Ram) is the ideal, nostalgic period that the proponents of Hindutava seek to usher in. Mythology brings the words of scripture to the masses in story form. And one of the stories in the Ramayana is the  story of the low caste man known as &lt;a href=&quot;https://en.wikipedia.org/wiki/Shambuka&quot;&gt;Shambuka&lt;/a&gt; who dared to perform penances, which only the higher castes were allowed to do, and was consequently  beheaded by Lord Ram, to reinstate the caste system. This story is found in the Uttarakanda section of the Valmiki Ramayana. Commenting on this, in his book, &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/index.html&quot;&gt;The Annihilation of Caste&lt;/a&gt;, Ambedkar  says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That without penal sanction the ideal of &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/terms/6840.html&quot;&gt;Chaturvarnya&lt;/a&gt; cannot be realized, is proved by the story in the &lt;strong&gt;Ramayana&lt;/strong&gt; of &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/individuals/6752.html&quot;&gt;Rama&lt;/a&gt; killing &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/individuals/6773.html&quot;&gt;Shambuka&lt;/a&gt;. Some people seem to blame &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/individuals/6752.html&quot;&gt;Rama&lt;/a&gt; because he wantonly and without reason killed &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/individuals/6773.html&quot;&gt;Shambuka&lt;/a&gt;. But to blame Rama for killing Shambuka is to misunderstand the whole situation. &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/terms/9457.html&quot;&gt;Ram Raj&lt;/a&gt; was a Raj based on Chaturvarnya. As a king, Rama was bound to maintain Chaturvarnya. It was his duty therefore to kill Shambuka, the &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/groups/6777.html&quot;&gt;Shudra &lt;/a&gt;who had transgressed his class and wanted to be a Brahmin. This is the reason why Rama killed Shambuka. But this also shows that penal sanction is necessary for the maintenance of Chaturvarnya. Not only penal sanction is necessary, but the penalty of death is necessary. That is why Rama did not inflict on Shambuka a lesser punishment. That is why the &lt;strong&gt;Manu-Smriti&lt;/strong&gt; prescribes such heavy sentences as cutting off the tongue, or pouring of molten lead in the ears, of the Shudra who recites or hears the &lt;strong&gt;Veda&lt;/strong&gt;. The supporters of Chaturvarnya must give an assurance that they could successfully classify men, and that they could induce modern society in the twentieth century to re-forge the penal sanctions of the &lt;strong&gt;Manu-Smriti&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“&lt;a href=&quot;http://www.hindubooks.org/bot/contents.htm&quot;&gt;Bunch of Thoughts&lt;/a&gt;” is a book written by M. S. Golwalkar who was the second Sarsanghchalak (Supreme Leader) of the Rashtriya Swayamsevak Sangh. RSS Leaders have said that this book was written to “clarify and understand the true purpose, the exact nature, the ambit and scope of the RSS work, and its activities.” In the chapter, “The Living God,” Golwalkar invokes the teachings of Swami Vivakananda and Sri Ramakrishna Paramahamsa, who had said that the real worship was the worship of man. Drawing a strange conclusion to this teaching he says that since:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;‘man’, in the sense of the whole of humanity, is a very wide concept and as such, cannot be grasped easily as a single solid entity for us to see and feel, we should take a view of the Almighty with certain limitations as it were, which one can understand, feel and serve.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;And, according to Golwarkar,  we must  visualize this   “Almighty Man”  (the Virat Pursha) with “limitations”  of  a head, arms, thighs and feet : Brahmin is the head, King the hands, Vaishya the thighs and Shudra the feet. He writes:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Our forefathers therefore said, “Our People are our God”. Sri Ramakrishna Paramahamsa, one of the greatest teachers of mankind, said, ‘Serve man’. His great disciple Swami Vivekananda also stated the same emphatically. But ‘man’, in the sense of the whole of humanity, is a very wide concept and as such, cannot be grasped easily as a single solid entity for us to see and feel. Therefore it is that so many who took up the idea of serving humanity ended in inanity and inaction. Hence our forefathers, understanding the limitations of the human mind and intellect, said, “Humanity and all that is all right, but before one can rise to that stage, one should take a view of the Almighty with certain limitations as it were, which one can understand, feel and serve”. The Hindu People, they said, is the Virat Purusha, the Almighty manifesting Himself. Though they did not use the ‘Hindu’, it is clear from the following description of the Almighty in Purusha Sukta wherein is stated that the sun and moon are His eyes, the stars and the skies are created from His nabhi (navel) and Brahmin is the head, King the hands, Vaishya the thighs and Shudra the feet. This means that the people who have this fourfold arrangement, i.e, the Hindu People, is our God.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Indian Prime Minister Modi wrote a book called &lt;a href=&quot;http://epaper.timesofindia.com/Repository/ml.asp?Ref=VE9JQS8yMDA3LzExLzI0I0FyMDA3MDA%3D&quot;&gt;Karamyogi&lt;/a&gt; in which he spritualized the work of the outcaste scavenger, saying that scavenging was an “experience in spirituality” for the ‘Valmikis’. This sub-caste among Dalits have been condemned to scavenging jobs for centuries.  Modi writes: I do not believe that they are doing this job to sustain their livelihood. Had this been so, they would not have continued with this type of job generation after generation. At some point of time, somebody must have got the enlightenment that it is their (the Balmikis’) duty to work for the happiness of the entire society and the Gods and that they have to do this job bestowed upon them by Gods and that this job of cleaning up should continue as an internal spiritual activity for centuries. Many years earlier, Dr. Baba Sahib Ambedkar had locked horns with the foremost Hindu of the time, Mahatma Gandhi on the issue of caste. The debate between Ambedkar and Gandhi can be found in here: &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/appendix_1.html&quot;&gt;A Vindication Of Caste By Mahatma Gandhi (A Reprint of his Articles in the Harijan)&lt;/a&gt; Gandhi, the champion of outcasts and of untouchability, says that a Hindu cannot remain a Hindu if he rejects the Varna system (the four fold system of caste) that the Shastras sanctify.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How can a Muslim remain one if he rejects the Quran, or a Christian remain Christian if he rejects the Bible? If Caste and Varna are convertible terms, and if Varna is an integral part of the Shastras which define Hinduism, I do not know how a person who rejects Caste, i.e. Varna, can call himself a Hindu.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 1936, Gandhi wrote an essay called  &lt;em&gt;The Ideal Bhangi&lt;/em&gt; . A bhangi (scavenger) he says, should remain a scavenger all his life but he should be a perfect technician in the fine art of excreta.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;He should know how a right kind of latrine is constructed and the correct way of cleaning it. He should know how to overcome and destroy the odour of excreta and the various disinfectants to render them innocuous. He should likewise know the process of converting urine and night soil into manure. But that is not all. My ideal Bhangi would know the quality of night-soil and urine. He would keep a close watch on these and give a timely warning to the individual concerned.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If Hindutva succeeds, then India will be a very unequal country. It can’t be otherwise. A Ram Rajya, presupposes an unequal society. As Gandhi points out, you cannot be a Hindu if you reject the Shastras. And if you accept the Shastras, you have to accept the caste system. If you accept the caste system, Shudras, untouchables and people of other religions have to be subservient to the three Upper Castes, the Traivarnikas. In &lt;a href=&quot;http://ccnmtl.columbia.edu/projects/mmt/ambedkar/web/index.html&quot;&gt;The Annihilation of Caste&lt;/a&gt; Ambedkar argues that social reforms must precede political reforms. Hence he wanted caste annihilated before political reforms are made. This is because caste, with its inherent and perpetual inequality is incompatible with the equality of all people that political reforms aims to legislate.&lt;/p&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html"></summary></entry><entry><title type="html">Bol (Speak) by Faiz Ahmed Faiz’s</title><link href="http://localhost:4000/2018-02-03/bol" rel="alternate" type="text/html" title="Bol (Speak) by Faiz Ahmed Faiz's" /><published>2018-02-03T00:00:00-06:00</published><updated>2018-02-03T00:00:00-06:00</updated><id>http://localhost:4000/2018-02-03/bol</id><content type="html" xml:base="http://localhost:4000/2018-02-03/bol">&lt;p&gt;[&lt;img src=&quot;/assets/faiz.jpg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;for your lips are still free…&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;for the tongue is still yours.&lt;/p&gt;
+
+&lt;p&gt;That virile body that is yours–&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For life is still yours.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;See:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;in the blacksmith’s shop,&lt;/p&gt;
+
+&lt;p&gt;fierce the flames, red the anvil,&lt;/p&gt;
+
+&lt;p&gt;the forge: its hungry jaws widening,&lt;/p&gt;
+
+&lt;p&gt;the chains: its lap, inviting–&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;for this short time is enough&lt;/p&gt;
+
+&lt;p&gt;before body &amp;amp; tongue’s demise.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;for truth is still alive.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Speak!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;whatever you want to say… speak it!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Translated from Urdu by Hersh&lt;/strong&gt;&lt;/p&gt;</content><author><name>Hersh Bhasin</name></author><summary type="html">[</summary></entry></feed>

@@ -1,16 +1,16 @@
 # Site settings
-title:          Hersh Bhasin's Tech Blog
-description:    "Hersh Bhasin on Technology"
+title:          Hersh Bhasin's Blog
+description:    "Hersh Bhasin's Writings"
 #baseurl:        "/tale"
-url:            "https://hershbhasin.github.io"
+url:            "https://blog.harshbhasin.com"
 
 # Google Analytics
-google_analytics: UA-137392264-1
+google_analytics: UA-141374393-1
 
 # Author
 author:
   name:         Hersh Bhasin
-  url:          https://hershbhasin.com
+  url:          https://blog.hershbhasin.com
   email:        hershbhasin63@gmail.com
 
 # Build settings
