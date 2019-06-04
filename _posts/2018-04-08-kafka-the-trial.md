@@ -4,6 +4,7 @@ layout: post
 title: "Reading of Kafka’s Trial in light of Foucault’s writings"
 author: "Hersh Bhasin"
 categories: Essays
+comments: true
 ---
 
 ![img](/assets/trial_1.jpg)
