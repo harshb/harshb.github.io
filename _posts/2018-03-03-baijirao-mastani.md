@@ -1,10 +1,10 @@
 ---
 
 layout: post
-
 title: "Baijirao Mastani"
-
 author: "Hersh Bhasin"
+comments: true
+categories: Essays
 ---
 
 ![img](/assets/bajirao_1.jpeg)

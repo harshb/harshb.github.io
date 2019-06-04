@@ -1,10 +1,9 @@
 ---
 
 layout: post
-
 title: "Vrindavan"
-
 author: "Hersh Bhasin"
+categories: Essays
 ---
 
 The trip to Vrindavan was triggered by an article by Vivekananda in which he talked about a vow he once took as a mendicant travelling penniless across India: that he would not ask for alms but wait for food and drink to be offered to him unasked. Though he suffered hardships, fainting at times, people always came to his aid. He reports to have survived many days this way, just on faith. And I had faith in those days. So, I wondered if I could travel across India with no money in my wallet. I decided to test the waters with a pilgrimage to the holy city of Vrindavan, but I still carried a hundred rupee note with me, just to cover the bus fare to Vrindavan.

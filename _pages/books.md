@@ -3,6 +3,7 @@ layout: post
 title: "Books by Hersh"
 author: "Hersh Bhasin"
 permalink: /books/
+comments: false
 ---
 
 ![img](/assets/books_2.jpg)
