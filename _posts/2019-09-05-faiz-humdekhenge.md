@@ -8,32 +8,24 @@ categories: Faiz-Ahmed-Faiz Poetry
 
 
 
-
-
-
 ![faiz](../assets/faiz.jpg)
 
 # Rendition by Hersh Bhasin1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe4AJnrrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/><br/>
 
 # Translation by Hersh Bhasin
-
 
 
 We shall witness.
 
 It's Imperative  that we too shall witness:  
-
 <br/><br/>
 
 that day promised to us till now,
 
 that iron clad dictate writ in the lines of our brow.  
-
-
-
-
+<br/><br/>
 When these mountains of  tyranny, torment and unrest,
 
 will dissipate like shreds of cotton in a tempest.
