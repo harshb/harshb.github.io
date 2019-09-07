@@ -8,7 +8,7 @@ categories: Faiz-Ahmed-Faiz Poetry
 
 
 
-Faiz's poem, "Mujh Se Pehli Si Muhabbat", rendered by Hersh Bhasin.
+Faiz's poem, "Mujh Se Pehli Si Muhabbat".
 
 # Rendition By Hersh Bhasin
 
