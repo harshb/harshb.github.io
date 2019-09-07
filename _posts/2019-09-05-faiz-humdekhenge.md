@@ -23,9 +23,7 @@ categories: Faiz-Ahmed-Faiz Poetry
 
 We shall witness.
 
-It's Imperative  that we too shall witness:  <br/>
-
-
+It's Imperative  that we too shall witness:  
 
 that day promised to us till now,
 
