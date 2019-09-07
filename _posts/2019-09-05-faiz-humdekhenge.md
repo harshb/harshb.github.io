@@ -20,11 +20,13 @@ categories: Faiz-Ahmed-Faiz Poetry
 # Translation by Hersh Bhasin
 
 
-<p>
+
 We shall witness.
 
 It's Imperative  that we too shall witness:
-<p>
+
+
+
 
 
 that day promised to us till now,
