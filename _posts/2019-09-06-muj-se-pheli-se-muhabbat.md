@@ -14,4 +14,4 @@ Faiz's poem, "Mujh Se Pehli Si Muhabbat", rendered by Hersh Bhasin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nPTlhLb75fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![faiz-muj-se](/Users/hershbhasin/Documents/hbsites/harshb.github.io/assets/faiz-muj-se.png)
+![faiz-muj-se](../assets/faiz-muj-se.png)
