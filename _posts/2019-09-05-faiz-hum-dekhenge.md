@@ -47,24 +47,23 @@ When  in the land of the pure,
 the  false idols are no more.
 
 
-We the pure of heart, who the fundamentalists decry.
+We the pure of heart, who the fundamentalists decry--
 
-We will take seats up high.
+wlll take seats up high.
 
 
 All crowns will be flung.
 
 All thrones wrung.
 
+Only His true name 
 
-Only the True One's name will remain.
+will remain.
 
-The One who is invisible, yet visible.
-Who is the spectacle,
+Him:  who is both invisible, and yet visible;
+Him: who is is both the beheld, and the beholder.
 
-and the beholder.
-
-"I am Truth.. I am Truth":  this thundering chant will roar:
+"I am Truth.. I am Truth": this thundering chant will roar
 
 that is me, and  its you for sure.
 And,  the pure hearted people will rule:
