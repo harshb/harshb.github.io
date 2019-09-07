@@ -20,69 +20,53 @@ categories: Faiz-Ahmed-Faiz Poetry
 We shall witness.
 
 It's Imperative  that we too shall witness:    
-<br/><br/>
 
 
 that day promised to us till now,
 
 that iron clad dictate writ in the lines of our brow.  
-<br/><br/>
 
 
 When these mountains of  tyranny, torment and unrest,
 
 will dissipate like shreds of cotton in a tempest.
-<br/><br/>
 
 
 Under the feet of we the subjugated,
 
 this earth will pulse and throb unabated.
-<br/><br/>
 
 
 And over the heads of these philosophers false,
 
 lightening will crackle, snap and waltz.
-<br/><br/>
 
 
 When  in the land of the pure,
 
 the  false idols are no more.
-<br/><br/>
 
 
 We the pure of heart, who the fundamentalists decry.
 
 We will take seats up high.
-<br/><br/>
 
 
 All crowns will be flung.
 
 All thrones wrung.
-<br/><br/>
 
 
 Only the True One's name will remain.
 
 The One who is invisible, yet visible.
-<br/><br/>
-
-
 Who is the spectacle,
 
 and the beholder.
-<br/><br/>
-
 
 "I am Truth.. I am Truth":  this thundering chant will roar:
 
 that is me, and  its you for sure.
-<br/><br/>
-
-
 And,  the pure hearted people will rule:
 
 that is me, and  its you for sure.
