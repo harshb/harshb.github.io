@@ -17,15 +17,16 @@ categories: Faiz-Ahmed-Faiz Poetry
 # Translation by Hersh Bhasin
 
 
-We shall witness.
+ We shall witness.
 
 It's Imperative  that we too shall witness:  
-<br/>
 
-that day promised to us till now,
+
+ that day promised to us till now,
 
 that iron clad dictate writ in the lines of our brow.  
-<br/><br/>
+
+
 When these mountains of  tyranny, torment and unrest,
 
 will dissipate like shreds of cotton in a tempest.
