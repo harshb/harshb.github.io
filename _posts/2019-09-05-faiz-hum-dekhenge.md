@@ -59,11 +59,11 @@ Him: who is is both the beheld, and the beholder.
 
 "I am Truth.. I am Truth": this thundering chant will roar
 
-that is me, and  its you for sure.
+that is me, and  it's you for sure.
 
 And,  the pure hearted people will rule:
 
-that is me, and  its you for sure.
+that is me, and  it's you for sure.
 
 
 
