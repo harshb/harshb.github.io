@@ -43,7 +43,7 @@ the  false idols are no more.
 
 We the pure of heart, who the fundamentalists decry--
 
-wlll take seats up high.
+will take seats up high.
 
 All crowns will be flung.
 
