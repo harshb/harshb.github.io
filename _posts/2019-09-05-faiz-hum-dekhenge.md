@@ -19,7 +19,7 @@ categories: Faiz-Ahmed-Faiz Poetry
 
 We shall witness.
 
-It's Imperative  that we too shall witness:    
+It's imperative  that we too shall witness:    
 
 that day promised to us till now,
 
@@ -51,15 +51,15 @@ All thrones wrung.
 
 Only His true name 
 
-will remain.
+will remain:
 
-Him:  who is both invisible, and yet visible;
+He:  who is both invisible, and yet visible;
 
-Him: who is is both the beheld, and the beholder.
+He: who is is both the beheld, and the beholder.
 
 "I am Truth.. I am Truth": this thundering chant will roar
 
-that is me, and  it's you for sure.
+that  is me, and  it's you for sure.
 
 And,  the pure hearted people will rule:
 
