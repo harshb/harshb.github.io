@@ -4,7 +4,7 @@ title: "Faiz Ahmed Faiz's Poem: Hum Dekhenge"
 author: "Hersh Bhasin"
 comments: true
 categories: Faiz-Ahmed-Faiz Poetry
-published: true
+published: false
 ---
 
 
