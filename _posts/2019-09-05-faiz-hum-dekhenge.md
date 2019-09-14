@@ -4,7 +4,7 @@ title: "Faiz Ahmed Faiz's Poem: Hum Dekhenge"
 author: "Hersh Bhasin"
 comments: true
 categories: Faiz-Ahmed-Faiz Poetry
-published: false
+published: true
 ---
 
 
@@ -42,13 +42,13 @@ When  in the land of the pure,
 
 the  false idols are no more.
 
-We the pure of heart, who the fundamentalists decry--
+We the pure of heart, whom the zealots decry--
 
 will take seats up high.
 
 All crowns will be flung.
 
-All thrones wrung.
+All thrones will be wrung.
 
 Only His true name 
 
