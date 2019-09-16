@@ -2,7 +2,7 @@
 layout: post
 title: "Faiz Ahmed Faiz's Poem: Hum Dekhenge"
 author: "Hersh Bhasin"
-comments: true
+comments: false
 categories: Faiz-Ahmed-Faiz Poetry
 published: true
 ---
@@ -13,7 +13,6 @@ published: true
 
 # Rendition by Hersh Bhasin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe4AJnrrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 # Translation by Hersh Bhasin
 
