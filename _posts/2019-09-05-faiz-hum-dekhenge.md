@@ -9,7 +9,7 @@ published: true
 
 
 
-![faiz](../assets/faiz.jpg)
+Faiz's Poem: Ham Dekhenge
 
 # Rendition by Hersh Bhasin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe4AJnrrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
