@@ -4,7 +4,7 @@ title: "Faiz: Mujh Se Pehli Si Muhabbat"
 author: "Hersh Bhasin"
 comments: true
 categories: Faiz-Ahmed-Faiz Poetry
-published: false
+published: true
 ---
 
 
