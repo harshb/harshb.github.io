@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faiz: Mujh Se Pehli Si Muhabbat"
+title: "Faiz: Mujh Se Pehli Si Muhabbat (My love don't ask for that old love...)"
 author: "Hersh Bhasin"
 comments: true
 categories: Faiz-Ahmed-Faiz Poetry
