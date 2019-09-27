@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faiz: Chand Roj Aur Mer Jaan (A few days more my love...)"
+title: "Faiz: Chand Roj Aur Mer Jaan"
 author: "Hersh Bhasin"
 comments: true
 categories: Faiz-Ahmed-Faiz Poetry
@@ -9,7 +9,7 @@ published: true
 
 
 
-Faiz's poem, "Chand Roj Aur Mer Jaan".
+Faiz's poem, "Chand Roj Aur Mer Jaan":  A few days more my love.
 
 # Rendition By Hersh Bhasin
 
