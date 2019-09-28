@@ -56,7 +56,7 @@ One, the "si" is troublesome. Then we have "raha gayi" -- try translating these.
 
 Here is the poem:
 
-##Shaam bhi thi dhuan dhuan..
+# Shaam bhi thi dhuan dhuan..
 
 **by Firaq Gorakhpuri**
 
@@ -67,6 +67,8 @@ Dil ko kayi kahaniya, yaad si aake reh gayi
 ```
 
 > The evening was smokey, 
+>
 > her elegance was sorrowful
+>
 > Many forgotten stories were recollected by the heart
 
