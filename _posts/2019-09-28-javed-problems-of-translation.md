@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Problems in translating poetry"
+title: "Why Translating Poetry Is Difficult"
 author: "Hersh Bhasin"
 comments: true
 categories: Essays
@@ -14,7 +14,7 @@ Poetry (shairi) talks  in a concise, summarized form (*iktisar* form). In this f
 
 In the same way when you hear a new word for the first time, the first time it makes a contact with your ear, it is its sound that you hear. First, that sound produces an impression (*tasur*): its phonetic effect. The effect it produces, another word cannot produce. Second,  you understand the words meaning, its vocation. If the word is "apple", its job is to convey the meaning of apple. Third, you form associations with other words: what does this particular word remind me of? What other words has this particular word kept company with (its sangat)? What environment does it reside in (*maahol*)? With what other words have I used this word with? Because of this process, a environment, a breeze, a picture, a scene (*Fiza*) is created in your consciousness (*Zehen*).
 
-Now, if you simply give out the meaning of a word: that this man is a doctor, and beyond that I do not know anything about this man. I cannot describe him, I don't know anything about his wholesome attributes (*Tarieef*) etc., you've not correctly described him. And this is the problem with translation from one language to another. Just giving the meaning of a word does not convey information about that words society, the company this word keeps with other words, with  words has this particular word galavanted with, what its environment (*maahol*) has been. An exact translation simply cannot be done.
+Now, if you simply give out the meaning of a word: that this man is a doctor, and beyond that I do not know anything about this man. I cannot describe him, I don't know anything about his wholesome attributes (*Tarieef*) etc., you've not correctly described him. And this is the problem with translation from one language to another. Just giving the meaning of a word does not convey information about the words association, the company this word keeps with other words. What  other words has this particular word galavanted with?  What has its environment (*maahol*) been?  An exact translation simply cannot be done.
 
 Talking about specific problems of translation from Urdu to English, Javed says:
 
