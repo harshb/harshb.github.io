@@ -13,6 +13,5 @@ Faiz's poem, "Chand Roj Aur Mer Jaan":  A few days more my love.
 
 # Rendition By Hersh Bhasin
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_eZH3aYtISs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJOXp1tV5IM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![faiz-chand-roj-aur](../assets/faiz-chand-roj-aur.png)
