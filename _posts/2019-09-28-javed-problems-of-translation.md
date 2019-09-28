@@ -72,3 +72,7 @@ Dil ko kayi kahaniya, yaad si aake reh gayi
 >
 > Many forgotten stories were recollected by the heart
 
+
+
+In this interview, Javed also talks about Urdu being a secular language, the language of the liberals, the non fundamentalists. All languages, he says, start with hymns to gods, with religious poetry. It is only centuries later that attention of languages turn to socio-economic affairs, to romance etc. However, Urdu was secular from day one. The hero of a ghazal is *Rind*, the drinker of wine, or *Mahaboob*, the lover. The villians  of a ghazal are the *Vaied* (the religious teachers), the Sheik-Ji (priest), the *Mullah* (priest), the *Peer* (holy man). The good places in a Ghazal are the *Maikada* (the wine house), the *Mahaboob ki gali* (the street of the beloved); and the bad places are the *Haram* (sacred place), and *Dar *(holy place).
+
