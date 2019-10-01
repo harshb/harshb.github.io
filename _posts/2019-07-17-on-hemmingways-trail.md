@@ -18,29 +18,29 @@ After his mother died, Hemingway was willed the cottage. Although he did not vis
 
 
 
-![hemm1](..\assets\hemm3.png)
+![hemm1](..\assets\hemm3.jpg)
 
 ## Outside the  Hemmingway Cottage
 
 A few house away from the Hemmingway Cottage is small play park and it opens up to the  Walloon lake. You are almost sitting on the steps of Hemmingway's cottage.
 
-![hemm1](..\assets\hemm4.png)
+![hemm1](..\assets\hemm4.jpg)
 
-![hemm1](..\assets\hemm5.png)
+![hemm1](..\assets\hemm5.jpg)
 
 
 
 ## The other side of Walloon  Lake
 
-![hemm1](..\assets\hemm6.png)
+![hemm1](..\assets\hemm6.jpg)
 
 
 
-![hemm1](..\assets\hemm8.png)
+![hemm1](..\assets\hemm8.jpg)
 
-![hemm1](..\assets\hemm10.png)
+![hemm1](..\assets\hemm10.jpg)
 
-![hemm1](..\assets\hemm11.png)
+![hemm1](..\assets\hemm11.jpg)
 
 
 
