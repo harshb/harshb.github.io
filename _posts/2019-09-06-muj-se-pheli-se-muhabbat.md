@@ -9,7 +9,7 @@ published: true
 
 
 
-Faiz's poem, "Mujh Se Pehli Si Muhabbat".
+Faiz's poem, "Mujh Se Pehli Si Muhabbat": My love don't ask for that old love...
 
 # Rendition By Hersh Bhasin
 
