@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "On Purity of Language "
+title: "My Language, Your Language"
 author: "Hersh Bhasin"
-comments: false
+comments: true
 categories: Essays
 
 ---
