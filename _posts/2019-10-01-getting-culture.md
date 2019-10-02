@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "But Where to Get Culture From? "
+title: "On Purity of Language "
 author: "Hersh Bhasin"
 comments: false
 categories: Essays
@@ -56,6 +56,46 @@ Amir Khusro belonged to the Chisti Sufi set, was the disciple  of Nizamuddin Aul
 Hindavi had spread from Delhi to present-day Gujarat to different parts of the Deccan, absorbing words, phrases and expressions from Gujarati, Marathi, Telugu and Kannada and enriching these languages, too, with words, expressions and phrases from Hindavi, Gojri, Persian, Dari and Turkish. This exchange and intermingling gradually led to the rise of a dialect called *Dakhani*—a flexible, adaptive language of daily life in large parts of the Deccan. The Sufis are believed to be the first group of people to write in this language
 
 In 1700 CE, Dakhani arrived in Delhi from Deccan as an almost fully developed language with the poetry of *Wali Dakhn*i. Dakhani, the language in which Wali wrote, was derisively called ‘*Rekhta*’ or mixed language. It was considered a language of the marketplace and therefore lacking refinement and unfit for civilized discourse.  All the master poets of Delhi were soon trying their hand at writing in a language that had started life in their own city and virtually been a gypsy for 350 years, before returning to the land of its birth. The story of Urdu as we know it today begins here.
+
+In an interview, the poet Javad Akhtar talks about people who want purity of language. "It's like peeling an onion and finding that the real onion is the peels itself".  Language is not script. For example Punjabi is written in three scripts, Urdu, Devanagari and Gurmukhi,  but it remains Punjabi. Language is not vocabulary. If I say "*Yeh hall air-conditioned hai*," I am not speaking English even though the two words that convey information (hall, air-conditioned) are English words,  nested between two trifling Hindi words. Language belongs to a region and  cannot belong to a religion. Punjab's language is Punjabi, language of Bengal is Bengali, language of Sindh is Sindhi, Germans speak German and French speak French. So it is illogical to say that Hindi is for Hindus and Urdu is for Muslims.
+
+Language is syntax, it is grammar. Till we have the syntax right, till the time we do not say,"*Ham ja raha hoon*," all is well. Hence we should not be scared of bringing new words from foreign languages. 
+
+Consider this simple dialogue in Hindi:
+
+![culture-1](..\assets\culture-1.jpg)
+
+The words used in this simple dialogue are derived from the following languages:
+
+Makan: Arabic
+
+Kamra: Italian (Le Camera = room)
+
+Balti: Portuguese (balde = bucket)
+
+Nanha: Gujrati
+
+Munna: Persian
+
+Urad: Tamil
+
+Chic: Turkish
+
+Sandook: Turkish
+
+Pistol: English
+
+Devar: Persian
+
+Bandook: Turkish
+
+Ba-baas: Sanskrit
+
+
+
+Try removing "foreign influences" from our languages and what you will have is George Orwell's , "Newspeak", a language characterized by a continually diminishing vocabulary; complete thoughts reduced to simple terms of simplistic meaning.
+
+
 
 
 
