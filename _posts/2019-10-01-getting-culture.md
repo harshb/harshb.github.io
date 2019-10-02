@@ -17,6 +17,10 @@ We imbibed culture from my father by osmosis. With his Lohari dress that he prou
 
 Growing up, the languages Hindi, Urdu, and Punjabi all belonged to us. The thought that Hindi is for Hindus, Punjabi for Punjabis, or  Urdu for Pakistanis was never in our mind. This was because of my father's influence who was the living role model of the inclusiveness of the Hindustani culture, a culture where Hindi, Urdu, and Punjabi are intricately blended, like the masalas, the ingredients of an exquisite   cuisine.
 
+***
+
+
+
 In his book [Beloved Delhi: A Mughal City and her Greatest Poets]( https://www.amazon.com/Beloved-Delhi-Mughal-Greatest-Poets/dp/9388326040), Saif Mahmood traces the evolution of our Hindavi language which, according to him, can be traced back to  Mahavira and the Buddha who, in the 6th  BCE challenged the hegemony of Sanskrit and started preaching in the natural language of the people: Prakrit. The purists who continued to maintain that only Sanskrit was the "language of the Gods" derisively referred to these emerging languages as *apabhramsas*, the fallen language, and one such language was *Shurseni*.
 
  A rough timeline of the emergence of Hindavi, and its subsequent division into  Hindi & Urdu is as follows:
@@ -56,6 +60,10 @@ Amir Khusro belonged to the Chisti Sufi set, was the disciple  of Nizamuddin Aul
 Hindavi had spread from Delhi to present-day Gujarat to different parts of the Deccan, absorbing words, phrases and expressions from Gujarati, Marathi, Telugu and Kannada and enriching these languages, too, with words, expressions and phrases from Hindavi, Gojri, Persian, Dari and Turkish. This exchange and intermingling gradually led to the rise of a dialect called *Dakhani*—a flexible, adaptive language of daily life in large parts of the Deccan. The Sufis are believed to be the first group of people to write in this language
 
 In 1700 CE, Dakhani arrived in Delhi from Deccan as an almost fully developed language with the poetry of *Wali Dakhn*i. Dakhani, the language in which Wali wrote, was derisively called ‘*Rekhta*’ or mixed language. It was considered a language of the marketplace and therefore lacking refinement and unfit for civilized discourse.  All the master poets of Delhi were soon trying their hand at writing in a language that had started life in their own city and virtually been a gypsy for 350 years, before returning to the land of its birth. The story of Urdu as we know it today begins here.
+
+***
+
+
 
 In an interview, the poet Javad Akhtar talks about people who want purity of language. "It's like peeling an onion and finding that the real onion is the peels itself".  Language is not script. For example Punjabi is written in three scripts, Urdu, Devanagari and Gurmukhi,  but it remains Punjabi. Language is not vocabulary. If I say "*Yeh hall air-conditioned hai*," I am not speaking English even though the two words that convey information (hall, air-conditioned) are English words,  nested between two trifling Hindi words. Language belongs to a region and  cannot belong to a religion. Punjab's language is Punjabi, language of Bengal is Bengali, language of Sindh is Sindhi, Germans speak German and French speak French. So it is illogical to say that Hindi is for Hindus and Urdu is for Muslims.
 
