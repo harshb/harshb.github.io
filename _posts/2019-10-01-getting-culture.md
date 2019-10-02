@@ -71,7 +71,23 @@ Language is syntax, it is grammar. Till we have the syntax right, till the time 
 
 Consider this simple dialogue in Hindi:
 
-![culture-1](..\assets\culture-1.jpg)
+
+
+> एक माकन के एक  कमरे में
+> एक गोरा चिट्टा आदमी और
+> एक नन्हा मुन्ना बच्चा
+> नाश्ता करने के लिया बैठा |
+> बावर्ची नाश्ता लाया |
+> नाश्ता में उरद की दाल  लाया |
+> नाश्ता करने से पहला नाहा लिया --
+> एक बाल्टी पानी से |
+> नाश्ता करने के बाद वह उठा, चिक हाटई,
+> उस में से एक पिस्तोल निकाली,
+> दीवार पे टंगी बन्दूक ली,
+> और चला गया |
+> बच्चा बेबस देखता रहा
+
+
 
 The words used in this simple dialogue are derived from the following languages:
 
