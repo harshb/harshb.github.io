@@ -65,7 +65,7 @@ In 1700 CE, Dakhani arrived in Delhi from Deccan as an almost fully developed la
 
 
 
-In an interview, the poet Javad Akhtar talks about people who want purity of language. "It's like peeling an onion and finding that the real onion is the peels itself".  Language is not script. For example Punjabi is written in three scripts, Urdu, Devanagari and Gurmukhi,  but it remains Punjabi. Language is not vocabulary. If I say "*Yeh hall air-conditioned hai*," I am not speaking English even though the two words that convey information (hall, air-conditioned) are English words,  nested between two trifling Hindi words. Language belongs to a region and  cannot belong to a religion. Punjab's language is Punjabi, language of Bengal is Bengali, language of Sindh is Sindhi, Germans speak German and French speak French. So it is illogical to say that Hindi is for Hindus and Urdu is for Muslims.
+In an [interview](https://youtu.be/Cv3tfll9Sr0), the poet Javad Akhtar talks about people who want purity of language. "It's like peeling an onion and finding that the real onion is the peels itself".  Language is not script. For example Punjabi is written in three scripts, Urdu, Devanagari and Gurmukhi,  but it remains Punjabi. Language is not vocabulary. If I say "*Yeh hall air-conditioned hai*," I am not speaking English even though the two words that convey information (hall, air-conditioned) are English words,  nested between two trifling Hindi words. Language belongs to a region and  cannot belong to a religion. Punjab's language is Punjabi, language of Bengal is Bengali, language of Sindh is Sindhi, Germans speak German and French speak French. So it is illogical to say that Hindi is for Hindus and Urdu is for Muslims.
 
 Language is syntax, it is grammar. Till we have the syntax right, till the time we do not say,"*Ham ja raha hoon*," all is well. Hence we should not be scared of bringing new words from foreign languages. 
 
@@ -85,7 +85,7 @@ Consider this simple dialogue in Hindi:
 > उस में से एक पिस्तोल निकाली,
 > दीवार पे टंगी बन्दूक ली,
 > और चला गया |
-> बच्चा बेबस देखता रहा
+> बच्चा बेबस देखता रहा |
 
 
 
@@ -117,15 +117,20 @@ Ba-baas: Sanskrit
 
 
 
-Try removing "foreign influences" from our languages and what you will have is George Orwell's , "Newspeak", a language characterized by a continually diminishing vocabulary; complete thoughts reduced to simple terms of simplistic meaning.
+Try removing "foreign influences" from our languages and what you will have is George Orwell's , "Newspeak", a language characterized by a continually diminishing vocabulary: complete thoughts reduced to simple terms of simplistic meaning.
 
 
 
+***
 
 
-Bibliography
+
+**Bibliography**
 
 1.  Mahmood, Saif. “Beloved Delhi: A Mughal City and her Greatest Poets.” 
+2.  [Interview With Javed Akhtar](https://youtu.be/Cv3tfll9Sr0)
+
+
 
  
 
