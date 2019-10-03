@@ -9,11 +9,13 @@ published: true
 
 
 
-Faiz's Poem: Ham Dekhenge:  We shall witness.
+Faiz's Poem, Ham Dekhenge:  We shall witness.
 
-# Rendition by Hersh Bhasin
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QOe4AJnrrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-# Translation by Hersh Bhasin
+
+
+<img src="../assets/faiz-ham-dekhan-ge.png" alt="Faiz" align="left">
+
+**Translation by Hersh Bhasin**
 
 
 We shall witness.
@@ -66,8 +68,6 @@ that is me, and  it's you for sure.
 
 
 
-# Hum Dekhenge (Hindi)
+**Rendition by Hersh Bhasin**
 
-<img src="../assets/faiz-ham-dekhan-ge.png" alt="Faiz" align="left">
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QOe4AJnrrqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
