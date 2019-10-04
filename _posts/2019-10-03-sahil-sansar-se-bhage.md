@@ -3,13 +3,13 @@ layout: post
 title: "Sahil: Sansār Se Bhāge Phirte Ho..."
 author: "Hersh Bhasin"
 comments: true
-categories: Poetry Sahil-Ludhianvi
+categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 
 
 
-Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God
+Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God
 
 
 
