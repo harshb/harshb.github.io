@@ -22,15 +22,9 @@ Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāog
 भगवान को तुम क्या पाओगे ?
 
 
-
-
-
 इस लोक को भी अपना न सके 
 
 उस लोक में भी पछताओगे |
-
-
-
 
 
 ये पाप है क्या ये पुन है क्या ?
@@ -38,15 +32,9 @@ Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāog
 रीतों पर धर्म की मोहरें हैं |
 
 
-
-
-
 हर युग में बदलते धर्मों को 
 
 कैसे आदर्श बनाओगे ?
-
-
-
 
 
 ये भोग भी एक तपस्या है 
@@ -54,12 +42,9 @@ Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāog
 तुम त्याग के मारे क्या जानो ?
 
 
-
-
-
 अपमान रचियता का होगा
 
- रचना को अगर ठुकराओगे |
+रचना को अगर ठुकराओगे |
 
 
 
