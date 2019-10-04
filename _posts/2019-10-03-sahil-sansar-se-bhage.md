@@ -16,7 +16,7 @@ Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāog
 # संसार से भागे फिरते हो भगवान को तुम क्या पाओगे 
 
 <p>
-संसार से भागे फिरते हो 
+संसार से भागे फिरते हो </br>
 
 भगवान को तुम क्या पाओगे ?
 </p>
