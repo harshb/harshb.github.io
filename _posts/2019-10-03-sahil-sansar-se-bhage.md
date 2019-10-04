@@ -11,21 +11,20 @@ published: true
 
 Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God?
 
-
+1
 
 # संसार से भागे फिरते हो भगवान को तुम क्या पाओगे 
 
-
-
+<p>
 संसार से भागे फिरते हो 
 
-भगवान को तुम क्या पाओगे ?<br/>
+भगवान को तुम क्या पाओगे ?
+</p>
 
-
-
+<p>
 इस लोक को भी अपना न सके 
-
-उस लोक में भी पछताओगे |<br/>
+उस लोक में भी पछताओगे |
+</p>
 
 
 
