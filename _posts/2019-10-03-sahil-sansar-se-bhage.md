@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sahil: Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge "
+title: "Sahil: Sansār Se Bhāge Phirte Ho..."
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Sahil-Ludhianvi
