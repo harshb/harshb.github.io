@@ -113,3 +113,13 @@ published: true
 सना-ख़्वान-ए-तक़्दीस-ए-मशरिक़ को लाओ 
 
 सना-ख़्वान-ए-तक़्दीस-ए-मशरिक़ कहाँ हैं 
+
+
+
+### Meanings
+
+मुहाफ़िज़: protector ख़ुदी: pride = protector of pride
+
+सना-ख़्वान-ए-तक़्दीस-ए-मशरिक़: those who prays the sacredness of the East
+
+पुर-पेच: complicated, difficult
