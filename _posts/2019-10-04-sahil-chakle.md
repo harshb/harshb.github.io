@@ -7,9 +7,9 @@ categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 
-Sahir Ludhianvi's poem, "Chakle".
+### Sahir Ludhianvi's poem, Chakle (brothel)
 
-**Chakle (Brothel)**
+****
 
 ये कूचे ये नीलाम घर दिलकशी के 
 
