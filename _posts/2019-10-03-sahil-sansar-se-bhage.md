@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sahil: Sansar Se Bhage Phirta Ho"
+title: "Sahil: Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge "
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Sahil-Ludhianvi
@@ -9,7 +9,7 @@ published: true
 
 
 
-Sahil Ludhianvi's poem, Sansar Se Bhage Phirta Ho:  Escaping the world, do you think you will  find God?
+Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God?
 
 
 
@@ -23,15 +23,21 @@ Sahil Ludhianvi's poem, Sansar Se Bhage Phirta Ho:  Escaping the world, do you t
 
 
 
+
+
 ये पाप है क्या ये पुन है क्या रीतों पर धर्म की मोहरें हैं 
 
 हर युग में बदलते धर्मों को कैसे आदर्श बनाओगे 
 
 
 
+
+
 ये भोग भी एक तपस्या है तुम त्याग के मारे क्या जानो 
 
 अपमान रचियता का होगा रचना को अगर ठुकराओगे 
+
+
 
 
 

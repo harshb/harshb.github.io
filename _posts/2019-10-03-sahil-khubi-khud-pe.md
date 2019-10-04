@@ -11,7 +11,7 @@ published: true
 
 
 
-Sahil Ludhanvi's poem, kabhī ḳhud pe kabhī hālāt pe ronā aayā : I cry myself, then at my fate.
+Sahil Ludhanvi's poem, ""Kabhī Khud Pe Kabhī Hālāt Pe Ronā Aayā" : I cry at myself, then at my fate.
 
 # कभी ख़ुद पे कभी हालात पे रोना आया 
 

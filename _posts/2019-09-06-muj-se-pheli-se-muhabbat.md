@@ -9,7 +9,7 @@ published: true
 
 
 
-Faiz's poem, Mujh Se Pehli Si Muhabbat: My love don't ask for that old love. 
+Faiz's poem, "Mujh Se Pehli Si Muhabbat": My love don't ask for that old love. 
 
 ![faiz-muj-se](../assets/faiz-muj-se.png)
 

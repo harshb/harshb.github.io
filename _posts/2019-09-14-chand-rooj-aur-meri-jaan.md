@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Faiz's poem, Chand Roj Aur Mer Jaan:  A few days more my love.
+Faiz's poem, "Chand Roj Aur Mer Jaan":  A few days more my love.
 
 ![faiz-chand-roj-aur](../assets/faiz-chand-roj-aur.png)
 
