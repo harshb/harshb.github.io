@@ -11,4 +11,4 @@ published: true
 
 Sahil Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God
 
-![sahil_saansar_se-bhage](/Users/hershbhasin/Documents/hbsites/harshb.github.io/assets/sahil_saansar_se-bhage.png)
+![sahil_saansar_se-bhage](../assets/sahil_saansar_se-bhage.png)
