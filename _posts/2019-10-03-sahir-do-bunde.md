@@ -3,7 +3,7 @@ layout: post
 title: "Sahir: Do Boonde Sawan Kii"
 author: "Hersh Bhasin"
 comments: true
-categories: Poetry
+categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 

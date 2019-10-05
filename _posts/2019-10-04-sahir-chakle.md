@@ -7,9 +7,8 @@ categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 
-### Sahir Ludhianvi's poem, Chakle (brothel)
+Sahir Ludhianvi's poem, Chakle (brothel)
 
-****
 
 
 

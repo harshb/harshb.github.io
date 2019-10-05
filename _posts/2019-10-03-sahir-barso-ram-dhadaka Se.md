@@ -3,7 +3,7 @@ layout: post
 title: "Sahir: Barso Ram Dhadaka Se"
 author: "Hersh Bhasin"
 comments: true
-categories: Poetry
+categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 
