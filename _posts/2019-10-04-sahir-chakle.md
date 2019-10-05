@@ -122,3 +122,7 @@ Sahir Ludhianvi's poem, Chakle (brothel)
 सना-ख़्वान-ए-तक़्दीस-ए-मशरिक़: those who prays the sacredness of the East
 
 पुर-पेच: complicated, difficult
+
+### Rendition By Hersh
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SorjOysVh0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
