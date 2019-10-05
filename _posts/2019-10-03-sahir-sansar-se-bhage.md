@@ -23,32 +23,33 @@ You, who from the world seeks to flee
 
 Think you will get God this way? Really?
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 This earthy world that you wouldn't accept
 
 What makes you think that starry realm too you will not reject?
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 What is piety? and what is sin?
 
 If not the stamp  on convention by a church.
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 From these ever changing churches
 
 On which church's tune will you march?
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 I say this world belongs to us
 
 You say this word is a false dream.
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 I will live my birth and leave
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 You will loose your birth and grieve.
+
