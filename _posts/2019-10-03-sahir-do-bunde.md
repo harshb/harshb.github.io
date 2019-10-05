@@ -8,6 +8,8 @@ published: true
 ---
 
 Sahir's poem: Do Boonde Sawan Kii
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+
 
 दो बूँदे सावन की 
 

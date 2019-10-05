@@ -9,6 +9,8 @@ published: true
 
 Sahir's poem: Barso Ram Dhadaka Se
 
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+
 बरसो राम धड़ाके से 
 
 बुढ़िया मर गई फ़ाक़े से 
