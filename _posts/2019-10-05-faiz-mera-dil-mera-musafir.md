@@ -49,7 +49,7 @@ This poem has a special place in my heart as it describes the plight of immigran
 >
 > I would be blessed
 >
-> if the days of my sorrow could be counted (and not infinite)
+> If the days of my sorrow could be counted (and not infinite)
 >
 > I would not be scared of dying
 >
