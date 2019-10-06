@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faiz: Last night your lost memory so came into the heart
+title: "Faiz: Last night your lost memory so came into the heart"
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Faiz-Ahmed-Faiz
