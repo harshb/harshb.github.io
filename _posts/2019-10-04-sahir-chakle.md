@@ -123,7 +123,4 @@ Sahir Ludhianvi's poem, Chakle (brothel)
 
 पुर-पेच: complicated, difficult
 
-### Rendition By Hersh
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WClFDUk1WxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmbSoYfi2HE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
