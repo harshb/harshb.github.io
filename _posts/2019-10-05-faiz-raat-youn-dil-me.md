@@ -20,7 +20,7 @@ Faiz poem: Raat yun dil mein teri khoi hui yaad aai (Last Night, Your Forgotten 
 >
 > As rest comes without cause to a sick man.
 >
-> *Victor Kiernan*
+> *Translated by Victor Kiernan*
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 

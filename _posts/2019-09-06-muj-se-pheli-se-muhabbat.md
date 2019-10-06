@@ -53,7 +53,7 @@ Faiz's poem, "Mujh Se Pehli Si Muhabbat".
 >
 >Do not ask from me, my beloved, love like that former one.
 >
->*Victor Kiernan*
+>*Translated by Victor Kiernan*
 
 ![faiz-muj-se](../assets/faiz-muj-se.png)
 

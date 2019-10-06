@@ -36,7 +36,7 @@ Faiz's poem, "Chand Roj Aur Mer Jaan":  A Few Days More, My Dear!
 >
 > Patience one moment, for the days of complaining are few .
 >
-> *Victor Kiernan*
+> *Translated by Victor Kiernan*
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
