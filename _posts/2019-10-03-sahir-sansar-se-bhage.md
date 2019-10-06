@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sahil: Sansār Se Bhāge Phirte Ho..."
+title: "Sahil: You, who from the world seeks to flee"
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Sahir-Ludhianvi
@@ -9,7 +9,7 @@ published: true
 
 
 
-Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God?
+Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  You, who from the world seeks to flee... Think you will find God this way? Really?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7JcOtsNNjP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -21,7 +21,7 @@ Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāog
 
 You, who from the world seeks to flee
 
-Think you will get God this way? Really?
+Think you will find God this way? Really?
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 

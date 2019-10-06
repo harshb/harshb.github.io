@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Faiz: Raat yun dil mein teri khoi hui yaad aai"
+title: "Faiz: Last Night, Your Forgotten Thought Came to Mind."
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Faiz-Ahmed-Faiz
 published: true
 ---
 
-Faiz poem: Raat yun dil mein teri khoi hui yaad aai, rendered by Hersh
+Faiz poem: Raat yun dil mein teri khoi hui yaad aai (Last Night, Your Forgotten Thought Came to Mind), rendered by Hersh
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nB9IyEyE-XM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

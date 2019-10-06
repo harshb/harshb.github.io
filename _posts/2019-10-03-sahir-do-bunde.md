@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Sahir: Do Boonde Sawan Kii"
+title: "Sahir: Two Drops Of Rain"
 author: "Hersh Bhasin"
 comments: true
 categories: Poetry Sahir-Ludhianvi
 published: true
 ---
 
-Sahir's poem: Do Boonde Sawan Kii
+Sahir's poem: Do Boonde Sawan Kii (Two drops of rain).
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 
