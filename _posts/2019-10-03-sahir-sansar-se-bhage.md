@@ -9,7 +9,9 @@ published: true
 
 
 
-Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God
+Sahir Ludhianvi's poem,  "Sansār Se Bhāge Phirte Ho Bhagvān Ko Tum Kyā Pāoge" :  Escaping the world, do you think you will  find God?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JcOtsNNjP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="../assets/sahil_saansar_se-bhage.png" alt="Sahil Ludhianvi" height="600" width="400">
 
@@ -53,5 +55,5 @@ You will loose your birth and grieve.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JcOtsNNjP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
