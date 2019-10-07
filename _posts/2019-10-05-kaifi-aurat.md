@@ -11,7 +11,7 @@ published: true
 
 उठ मिरी जान मिरे साथ ही चलना है तुझे 
 
-क़ल्ब-ए-माहौल (*atmosphere*) में लर्ज़ां  (*quivering*) शरर-ए-जंग (*spark of war*) हैं आज           
+क़ल्ब-ए-माहौल (*heart of atmosphere*) में लर्ज़ां  (*quivering*) शरर-ए-जंग (*spark of war*) हैं आज           
 
 हौसले (*courage*) वक़्त (time) के और ज़ीस्त (*existence*) के यक-रंग (*same color*) हैं आज 
 
@@ -21,19 +21,49 @@ published: true
 
 जिस में जलता हूँ उसी आग में जलना है तुझे 
 
+
+
+Arise my dear, walk with me
+
+The spark of war quivers and quickens the space
+
+The courage of our time and our self now have the same face
+
+Goblets of wine heats and enthuses our stony hearts
+
+Beauty and romance  shout and sing as one voice today
+
+The fire that consumes me, let it consume you too my dear
+
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+
+
 
 उठ मिरी जान मिरे साथ ही चलना है तुझे 
 
-तेरे क़दमों में है फ़िरदौस-ए-तमद्दुन (*heaven of culture*) की बहार 
+तेरे क़दमों में है फ़िरदौस-ए-तमद्दुन (*heaven of culture*) की बहार (bloom)
 
-तेरी नज़रों पे है तहज़ीब (*cultivation*) ओ तरक़्क़ी का मदार (*dependence*)
+तेरी नज़रों पे है तहज़ीब (*culture*) ओ तरक़्क़ी का मदार (*dependence*)
 
 तेरी आग़ोश (*embrace*) है गहवारा-ए-नफ़्स-ओ-किरदार (*cradle of spirits, souls, minds; and character*)
 
-ता-ब-कै (*around you* ) गिर्द (*circumference*) तिरे (*you*) वहम (*suspicion*) ओ तअ'य्युन (*fixed*) का हिसार (fort)
+ता-ब-कै (*around you* ) गिर्द (*circumference*) तिरे (*you*) वहम (*superstition*) ओ तअ'य्युन (*fixed*) का हिसार (fort)
 
 कौंद (*dazzle*) कर मज्लिस-ए-ख़ल्वत (*assembly of privacy*) से निकलना है तुझे 
+
+
+
+Arise my dear, walk with me
+
+The heavens of culture bloom at your feet
+
+Refinement and progression shine in your eyes
+
+Your embrace is  that of  spirit and character
+
+Though you are surrounded by a fort of bigotry and superstition
+
+You have to dazzle like a lightning bolt and escape  this prison
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
@@ -48,6 +78,20 @@ published: true
 बन के सीमाब (*quicksilver, mercury*) हर इक ज़र्फ़ (*vase*) में ढल जाती है 
 
 ज़ीस्त (*existence*) के आहनी (*made of iron*) साँचे में भी ढलना है तुझे 
+
+
+
+Arise my dear, walk with me
+
+You who were hereto pacified with toys;
+
+Who  melted with the heated breath of passion;
+
+Who would slip as soon as she took a single foot forward;
+
+Who like quicksilver moulded  to every vase --
+
+Must now pour your existance  into a mold of steel
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
