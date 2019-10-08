@@ -17,53 +17,53 @@ By Kaifi Azmi
 
 >Arise my dear, come walk with me
 >
->Today, rebellion and revolt pervades the air as far as we can see
+>A spirit of rebellion quivers in every heart now
 >
->Today,  of one color is the  courage that envelops our time and that which grows within 
+>The archetype of courage is born and  wears our own  self  now
 >
->Today, these fiery goblets of courage  enthuses our stony hearts 
+>Goblets of lava heat our stony insentience now
 >
->Today, beauty and love are in accord and are strung to the same pitch
+>Our  ideals of  shapeliness and romance  are transmuted and are in same rhythm now
 >
->The fire that consumes me, you too must burn  in it too my dear
->
-><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
->
->Arise my dear, come walk with me
->
->At your feet  bloom the highest heavens of culture 
->
->On the spark of your eyes,  depends progress and refinement 
->
->In your embrace  cradles  everything sublime and  pure
->
->Though  fenced in with bigotry and superstition
->
->You have to blast  through this prison like a dazzling  bolt of lightning my dear
+>The fire that burns me, you have to burn it it too my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->You who were hereto pacified with senseless toys;
+>At your feet  heavens of culture germinate
 >
->Whose heart was  melted with the heated breath of  passion;
+>Around your eyes civilization and progress  circumambulate
 >
->Who would slip as soon as she took a single foot forward;
+>In your embrace  you cradles  everything  pure
 >
->Who like quicksilver would mould into the shape of  every vase --
+>Around you is a fort of  superstition impure
 >
->You must now pour your existence  into a mold of steel my dear
+>You have to dazzle and escape from this prison my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->Life is  in struggle and not in patience tightly controlled
+>You who were once  satisfied with senseless toys in fashion;
 >
->The pulse of life's blood  in  not in the quivering teardrop 
+>You who once melted from heated breaths of passion ;
 >
-> Life's fragrence  is in soaring high in the sky and not in admiring  beautiful tresses that curl
+>You who would once  slip  and fall on your face
+>
+>You who like quicksilver would mold into the shape of  every vase 
+>
+>Now pour your existence  into a mold of steel my dear
+>
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+>
+>Arise my dear, come walk with me
+>
+>Life is  found  in  strife and not in passions restrained 
+>
+>The pulse of life  is not found in quivering teardrops  unrestrained
+>
+> Life gives its  fragrance to expansion and flight and not to the  tossing mane
 >
 >There is another heaven out there which lies  not in the shadow of your male
 >
@@ -73,71 +73,71 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->Your funeral pyre burns  behind your hearth's door
+>A funeral pyre burns  behind your hearth's door
 >
->Where  duty disguised as fate awaits 
+>Where  duty disguised as fate awaits for sure
 >
->Delicate feminine graces are disastrous for you
+>But these delicate feminine graces will be your fall
 >
->These worldly airs are poison upon poison for you
+>And the worldly poison  will take its toll
 >
 >Change this inclement season  if you want to grow and prosper my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
 >Time has not known your worth so far
 >
->You have dynamite in you and just not tears
+>There is  dynamite  and  not just sobs and  tears in your repertoire
 >
->You  are reality and not just an interesting story
+>You  have being, existence, reality ; and are not just an interesting story told in the bazar
 >
->You are to be known by your existence and not just by your youth
+>Your existence too is a thing and not just  your beauty beyond par
 >
->You have to change the title of your destiny
->
-><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
->
->Arise my dear, walk with me
->
->Break the shackles of tradition and rise above the restrictions of conservatism
->
->Rise above the frailty caused by luxury and the whim of being delicate
->
->Rise above these circles of bondage around your soul
->
->If love enslaves, raise beyond love
->
->What to say about thorns in your way, rise above roses strewn in your path too
+>You have to rewrite the title of the book of your destiny my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
->Break your self induced aggrandized mental image of the dutiful super woman
+>Break the shackles of tradition and rise above the restrictions of orthodoxy
 >
->Break  those  vows and oaths that chain you down
+>Rise above the frailty caused by luxury and the whims of delicacy
 >
->Break these yokes of beautiful emerald necklaces
+>Rise above these fetters of bondage around your soul
+>
+>Rise above love, If love enslaves and puts you in a hole
+>
+>Rise over not just thorns, but also above roses in your path strewn 
+>
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+>
+>Arise my dear, come walk with me
+>
+>Break your  self induced mental image of the dutiful super woman
+>
+>Break  the vows  that chain you down
+>
+>Break the yokes of  necklaces made of emerald and gold
 >
 >Spill the wine of  logic that seeks to rationalize your enslavement 
 >
->Like a cyclone you have to howl and rage yet
+>Like a cyclone you have to howl and rage yet my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
->You are Plato, you are Aristotle, you are the star cluster pleiades
+>You are Plato, you are Aristotle, you are the star cluster Pleiades
 >
->You hold heaven captive, and this earth at your feet
+>The heavens are in your hand, and this earth at your feet
 >
 >Quick, place the foot of destiny on your forehead
 >
 >I won't stop for you, neither will time
 >
->Till when will you stumble? Now be steady and compose yourself
+>Stumbling has to stop, you have to walk now my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
