@@ -9,133 +9,145 @@ published: true
 
 
 
-Arise my dear, walk with me
+## Woman
+
+By Kaifi Azmi
+
+
+
+>Arise my dear, walk with me
+>
+>The spirit of the present time is pregnant with  rebellion and revolt 
+>
+>The courage of our time and that of our existance are dyed in the same color
+>
+>Goblets of wine heats and enthuse our stony hearts
+>
+>The beauty that excites, and the subjects of our romantic trysts are the same lofty ideals that  sing in unison 
+>
+>The fire that consumes me, let it consume you too my dear
+>
+>
+>
+>Arise my dear, walk with me
+>
+>The heavens of culture bloom at your feet
+>
+>Refinement and progression shine in your sparkling eyes
+>
+>Your embrace is that of your lofty spirit and your noble character
+>
+>Though you are surrounded by a fort of bigotry and superstition
+>
+>You must to dazzle and blast though  this prison like a bolt of lightning
+>
+>
+>
+>Arise my dear, walk with me
+>
+>You who were hereto pacified with senseless toys;
+>
+>Whose heart was  melted with the heated breath of  passion;
+>
+>Who would slip as soon as she took a single foot forward;
+>
+>Who like quicksilver would mould into the shape of  every vase --
+>
+>You must now pour your existence  into a mold of steel
+>
+>
+>
+>Arise my dear, walk with me
+>
+>Existence is fulfilled in struggle and not in the controlled patience you project
+>
+>The pulse of life is found not is the trembling teardrop that from your eyes falls
+>
+>The fragrance of life is found in flying high and not in your beautiful tresses that curl
+>
+>There is another heaven out there which lies  not in the shadow of your male
+>
+>For that awoke progressive mate's thoughts too you must with passion burn and  swoon 
+>
+>
+>
+>Arise my dear, walk with me
+>
+>A funeral pyre burns for you  behind your hearth door
+>
+>Where expected duty wears the mask of fate for you 
+>
+>Dear, be warned: these tender glances expected  will your fetters be;
+>
+>And this world of matter your poisoned sea.
+>
+>Overturn this repressive season of demands if you want to grow and prosper
+>
+>
+>
+>Arise my dear, walk with me
+>
+>Time has not known your worth so far
+>
+>You have dynamite in you and just not tears
+>
+>You  are reality and not just an interesting story
+>
+>You are to be known by your existence and not just by your youth
+>
+>You have to change the title of your destiny
+>
+>
+>
+>Arise my dear, walk with me
+>
+>Break the shackles of tradition and rise above the restrictions of conservatism
+>
+>Rise above the frailty caused by luxury and the whim of being delicate
+>
+>Rise above these circles of bondage around your soul
+>
+>If love enslaves, raise beyond love
+>
+>What to say about thorns in your way, rise above roses strewn in your path too
+>
+>
+>
+>Arise my dear, walk with me
+>
+>Break your self induced aggrandized mental image of the dutiful super woman
+>
+>Break  those  vows and oaths that chain you down
+>
+>Break these yokes of beautiful emerald necklaces
+>
+>Spill the wine of  logic that seeks to rationalize your enslavement 
+>
+>Like a cyclone you have to howl and rage yet
+>
+>
+>
+>Arise my dear, walk with me
+>
+>You are Plato, you are Aristotle, you are the star cluster pleiades
+>
+>Heaven is in your captivity, this earth in the dust of your feet
+>
+>Quick, place the foot of destiny on your forehead
+>
+>I won't stop for you, neither will time
+>
+>Till when will you stumble? Now be steady and compose yourself
+>
+>
+>
+>Arise my dear, walk with me
+>
+>
+>
+>T*ranslated by Hersh Bhasin*
 
-The spark of war quivers and quickens the space
 
-The courage of our time and our self now have the same face
-
-Goblets of wine heats and enthuses our stony hearts
-
-Beauty and romance  shout and sing as one voice today
-
-The fire that consumes me, let it consume you too my dear
-
-
-
-Arise my dear, walk with me
-
-The heavens of culture bloom at your feet
-
-Refinement and progression shine in your eyes
-
-Your embrace is  that of  spirit and character
-
-Though you are surrounded by a fort of bigotry and superstition
-
-You have to dazzle like a lightning bolt and escape  this prison
-
-
-
-Arise my dear, walk with me
-
-You who were hereto pacified with toys;
-
-Who  melted with the heated breath of passion;
-
-Who would slip as soon as she took a single foot forward;
-
-Who like quicksilver moulded  to every vase --
-
-Must now pour your existance  into a mold of steel
-
-
-
-Arise my dear, walk with me
-
-Life is in struggle and not in controlled patience
-
-The pulse of life is not is the trembling teardrop
-
-The fragrance of life is in flying and not in the tresses that curl
-
-There is another heaven that is  not in the shadow of the male
-
-On that awoke male's progessive thought too you must get excited
-
-Arise my dear, walk with me
-
-
-
-A funeral pyre burns for you  behind your hearth door
-
-Where expected duty wears the mask of fate for you 
-
-Dear, be warned: the tender glances men expect from you will be your fetter;
-
-And poison for you is this world of matter
-
-Overturn this repressive season of demands if you want to grow and prosper
-
-
-
-Arise my dear, walk with me
-
-Time has not known your worth so far
-
-You have dynamite in you and just not tears
-
-You  are reality and not just an interesting story
-
-You are to be known by your existence and not just by your youth
-
-You have to change the title of your destiny
-
-
-
-Arise my dear, walk with me
-
-Break the shackles of tradition and rise above the restrictions of conservatism
-
-Rise above the frailty caused by luxury and the whim of being delicate
-
-Rise above these circles of bondage around your soul
-
-If love enslaves, raise beyond love
-
-What to say about thorns in your way, rise above roses strewn in your path too
-
-
-
-Arise my dear, walk with me
-
-Break your self indused aggrandized mental image of the dutiful super woman
-
-Break  those  vows and oaths that chain you down
-
-Break these yokes of beautiful emerald necklaces
-
-Spill the wine of  logic that seeks to rationalize your enslavement 
-
-Like a cyclone you have to howl and rage yet
-
-
-
-Arise my dear, walk with me
-
-You are Plato, you are Aristotle, you are the star cluster pleiades
-
-Heaven is in your captivity, this earth in the dust of your feet
-
-Quick, place the foot of destiny on your forehead
-
-I won't stop for you, neither will time
-
-Till when will you stumble? Now be steady and compose yourself
-
-
-
-Arise my dear, walk with me
 
 
 
