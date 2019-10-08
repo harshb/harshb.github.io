@@ -9,20 +9,6 @@ published: true
 
 
 
-उठ मिरी जान मिरे साथ ही चलना है तुझे 
-
-क़ल्ब-ए-माहौल (*heart of atmosphere*) में लर्ज़ां  (*quivering*) शरर-ए-जंग (*spark of war*) हैं आज           
-
-हौसले (*courage*) वक़्त (time) के और ज़ीस्त (*existence*) के यक-रंग (*same color*) हैं आज 
-
-आबगीनों (*goblets*) में तपाँ (heat) वलवला-ए-संग (*enthusiasm of stone*) हैं आज 
-
-हुस्न और इश्क़ हम-आवाज़ ओ हम-आहंग (*rhythm*) हैं आज 
-
-जिस में जलता हूँ उसी आग में जलना है तुझे 
-
-
-
 Arise my dear, walk with me
 
 The spark of war quivers and quickens the space
@@ -34,22 +20,6 @@ Goblets of wine heats and enthuses our stony hearts
 Beauty and romance  shout and sing as one voice today
 
 The fire that consumes me, let it consume you too my dear
-
-<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
-
-
-
-उठ मिरी जान मिरे साथ ही चलना है तुझे 
-
-तेरे क़दमों में है फ़िरदौस-ए-तमद्दुन (*heaven of culture*) की बहार (bloom)
-
-तेरी नज़रों पे है तहज़ीब (*culture*) ओ तरक़्क़ी का मदार (*dependence*)
-
-तेरी आग़ोश (*embrace*) है गहवारा-ए-नफ़्स-ओ-किरदार (*cradle of spirits, souls, minds; and character*)
-
-ता-ब-कै (*around you* ) गिर्द (*circumference*) तिरे (*you*) वहम (*superstition*) ओ तअ'य्युन (*fixed*) का हिसार (fort)
-
-कौंद (*dazzle*) कर मज्लिस-ए-ख़ल्वत (*assembly of privacy*) से निकलना है तुझे 
 
 
 
@@ -65,20 +35,6 @@ Though you are surrounded by a fort of bigotry and superstition
 
 You have to dazzle like a lightning bolt and escape  this prison
 
-<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
-
-उठ मिरी जान मिरे साथ ही चलना है तुझे 
-
-तू कि बे-जान खिलौनों से बहल जाती है  
-
-तपती साँसों की हरारत (*passion*) से पिघल जाती है 
-
-पाँव जिस राह में रखती है फिसल जाती है 
-
-बन के सीमाब (*quicksilver, mercury*) हर इक ज़र्फ़ (*vase*) में ढल जाती है 
-
-ज़ीस्त (*existence*) के आहनी (*made of iron*) साँचे में भी ढलना है तुझे 
-
 
 
 Arise my dear, walk with me
@@ -92,6 +48,137 @@ Who would slip as soon as she took a single foot forward;
 Who like quicksilver moulded  to every vase --
 
 Must now pour your existance  into a mold of steel
+
+
+
+Arise my dear, walk with me
+
+Life is in struggle and not in controlled patience
+
+The pulse of life is not is the trembling teardrop
+
+The fragrance of life is in flying and not in the tresses that curl
+
+There is another heaven that is  not in the shadow of the male
+
+On that awoke male's progessive thought too you must get excited
+
+Arise my dear, walk with me
+
+
+
+A funeral pyre burns for you  behind your hearth door
+
+Where expected duty wears the mask of fate for you 
+
+Dear, be warned: the tender glances men expect from you will be your fetter;
+
+And poison for you is this world of matter
+
+Overturn this repressive season of demands if you want to grow and prosper
+
+
+
+Arise my dear, walk with me
+
+Time has not known your worth so far
+
+You have dynamite in you and just not tears
+
+You  are reality and not just an interesting story
+
+You are to be known by your existence and not just by your youth
+
+You have to change the title of your destiny
+
+
+
+Arise my dear, walk with me
+
+Break the shackles of tradition and rise above the restrictions of conservatism
+
+Rise above the frailty caused by luxury and the whim of being delicate
+
+Rise above these circles of bondage around your soul
+
+If love enslaves, raise beyond love
+
+What to say about thorns in your way, rise above roses strewn in your path too
+
+
+
+Arise my dear, walk with me
+
+Break your self indused aggrandized mental image of the dutiful super woman
+
+Break  those  vows and oaths that chain you down
+
+Break these yokes of beautiful emerald necklaces
+
+Spill the wine of  logic that seeks to rationalize your enslavement 
+
+Like a cyclone you have to howl and rage yet
+
+
+
+Arise my dear, walk with me
+
+You are Plato, you are Aristotle, you are the star cluster pleiades
+
+Heaven is in your captivity, this earth in the dust of your feet
+
+Quick, place the foot of destiny on your forehead
+
+I won't stop for you, neither will time
+
+Till when will you stumble? Now be steady and compose yourself
+
+
+
+Arise my dear, walk with me
+
+
+
+
+उठ मिरी जान मिरे साथ ही चलना है तुझे 
+
+क़ल्ब-ए-माहौल (*heart of atmosphere*) में लर्ज़ां  (*quivering*) शरर-ए-जंग (*spark of war*) हैं आज           
+
+हौसले (*courage*) वक़्त (time) के और ज़ीस्त (*existence*) के यक-रंग (*same color*) हैं आज 
+
+आबगीनों (*goblets*) में तपाँ (heat) वलवला-ए-संग (*enthusiasm of stone*) हैं आज 
+
+हुस्न और इश्क़ हम-आवाज़ ओ हम-आहंग (*rhythm*) हैं आज 
+
+जिस में जलता हूँ उसी आग में जलना है तुझे 
+
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+
+उठ मिरी जान मिरे साथ ही चलना है तुझे 
+
+तेरे क़दमों में है फ़िरदौस-ए-तमद्दुन (*heaven of culture*) की बहार (bloom)
+
+तेरी नज़रों पे है तहज़ीब (*culture*) ओ तरक़्क़ी का मदार (*dependence*)
+
+तेरी आग़ोश (*embrace*) है गहवारा-ए-नफ़्स-ओ-किरदार (*cradle of spirits, souls, minds; and character*)
+
+ता-ब-कै (*around you* ) गिर्द (*circumference*) तिरे (*you*) वहम (*superstition*) ओ तअ'य्युन (*fixed*) का हिसार (fort)
+
+कौंद (*dazzle*) कर मज्लिस-ए-ख़ल्वत (*assembly of privacy*) से निकलना है तुझे 
+
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+
+उठ मिरी जान मिरे साथ ही चलना है तुझे 
+
+तू कि बे-जान खिलौनों से बहल जाती है  
+
+तपती साँसों की हरारत (*passion*) से पिघल जाती है 
+
+पाँव जिस राह में रखती है फिसल जाती है 
+
+बन के सीमाब (*quicksilver, mercury*) हर इक ज़र्फ़ (*vase*) में ढल जाती है 
+
+ज़ीस्त (*existence*) के आहनी (*made of iron*) साँचे में भी ढलना है तुझे 
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
@@ -139,7 +226,7 @@ Must now pour your existance  into a mold of steel
 
 उठ मिरी जान मिरे साथ ही चलना है तुझे 
 
-तोड़ कर रस्म का बुत बंद-ए-क़दामत (*restriction of convservatism*) से निकल 
+तोड़ कर रस्म का बुत बंद-ए-क़दामत (*restriction of conservatism*) से निकल 
 
 ज़ोफ़-ए-इशरत (*frailty caused by luxury*) से निकल वहम-ए-नज़ाकत (*whim of being delicate*) से निकल 
 
@@ -153,7 +240,7 @@ Must now pour your existance  into a mold of steel
 
 उठ मिरी जान मिरे साथ ही चलना है तुझे 
 
-तोड़ ये अज़्म-शिकन (*breaking determination*) दग़दग़ा-ए-पंद (*boastful moralizing*) भी तोड़ 
+तोड़ ये अज़्म-शिकन (*conviction-wrinkle*) दग़दग़ा-ए-पंद (*boastful moralizing*) भी तोड़ 
 
 तेरी ख़ातिर है जो ज़ंजीर वो सौगंद (*oath*) भी तोड़ 
 
