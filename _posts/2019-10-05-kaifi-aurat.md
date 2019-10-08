@@ -19,7 +19,7 @@ By Kaifi Azmi
 >
 >Today, rebellion and revolt pervades the air as far as we can see
 >
->Today,  colored of the same  dye  is the  courage that envelops our time and  which grows within 
+>Today,  of one color is the  courage that envelops our time and that which grows within 
 >
 >Today, these fiery goblets of courage  enthuses our stony hearts 
 >
