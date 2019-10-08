@@ -79,7 +79,7 @@ By Kaifi Azmi
 >
 >Delicate feminine graces are disastrous for you
 >
->These worldly are are poison upon poison for you
+>These worldly airs are poison upon poison for you
 >
 >Change this inclement season  if you want to grow and prosper my dear
 >
