@@ -15,35 +15,35 @@ By Kaifi Azmi
 
 
 
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
->The spirit of the present time is pregnant with  rebellion and revolt 
+>Today, rebellion and revolt pervades the air as far as we can see
 >
->The courage of our time and that of our existance are dyed in the same color
+>Today,  colored of the same  dye  is the  courage that envelops our time and  which grows within 
 >
->Goblets of wine heats and enthuse our stony hearts
+>Today, these fiery goblets of courage  enthuses our stony hearts 
 >
->The beauty that excites, and the subjects of our romantic trysts are the same lofty ideals that  sing in unison 
+>Today, beauty and love are in accord and are strung to the same pitch
 >
->The fire that consumes me, let it consume you too my dear
->
-><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
->
->Arise my dear, walk with me
->
->The heavens of culture bloom at your feet
->
->Refinement and progression shine in your sparkling eyes
->
->Your embrace is that of your lofty spirit and your noble character
->
->Though you are surrounded by a fort of bigotry and superstition
->
->You must to dazzle and blast though  this prison like a bolt of lightning
+>The fire that consumes me, you too must burn  in it too my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
+>
+>At your feet  bloom the highest heavens of culture 
+>
+>On the spark of your eyes,  depends progress and refinement 
+>
+>In your embrace  cradles  everything sublime and  pure
+>
+>Though  fenced in with bigotry and superstition
+>
+>You have to blast  through this prison like a dazzling  bolt of lightning my dear
+>
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
+>
+>Arise my dear, come walk with me
 >
 >You who were hereto pacified with senseless toys;
 >
@@ -53,17 +53,17 @@ By Kaifi Azmi
 >
 >Who like quicksilver would mould into the shape of  every vase --
 >
->You must now pour your existence  into a mold of steel
+>You must now pour your existence  into a mold of steel my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
->Existence is fulfilled in struggle and not in the controlled patience you project
+>Life is  in struggle and not in patience tightly controlled
 >
->The pulse of life is found not is the trembling teardrop that from your eyes falls
+>The pulse of life's blood  in  not in the quivering teardrop 
 >
->The fragrance of life is found in flying high and not in your beautiful tresses that curl
+> Life's fragrence  is in soaring high in the sky and not in admiring  beautiful tresses that curl
 >
 >There is another heaven out there which lies  not in the shadow of your male
 >
@@ -71,17 +71,17 @@ By Kaifi Azmi
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
->A funeral pyre burns for you  behind your hearth door
+>Your funeral pyre burns  behind your hearth's door
 >
->Where expected duty wears the mask of fate for you 
+>Where  duty disguised as fate awaits 
 >
->Dear, be warned: these tender glances expected  will your fetters be;
+>Delicate feminine graces are disastrous for you
 >
->And this world of matter your poisoned sea.
+>These worldly are are poison upon poison for you
 >
->Overturn this repressive season of demands if you want to grow and prosper
+>Change this inclement season  if you want to grow and prosper my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -214,7 +214,7 @@ By Kaifi Azmi
 
 फ़र्ज़ का भेस बदलती है क़ज़ा (*death, fate*) तेरे लिए 
 
-क़हर (*Fury*) है तेरी हर इक नर्म अदा तेरे लिए 
+क़हर (*disaster*) है तेरी हर इक नर्म अदा तेरे लिए 
 
 ज़हर ही ज़हर है दुनिया की हवा तेरे लिए 
 
