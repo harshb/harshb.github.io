@@ -131,7 +131,7 @@ By Kaifi Azmi
 >
 >You are Plato, you are Aristotle, you are the star cluster pleiades
 >
->Heaven is in your captivity, this earth in the dust of your feet
+>You hold heaven captive, and this earth at your feet
 >
 >Quick, place the foot of destiny on your forehead
 >
