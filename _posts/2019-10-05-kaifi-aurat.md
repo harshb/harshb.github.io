@@ -27,7 +27,7 @@ By Kaifi Azmi
 >
 >The fire that consumes me, let it consume you too my dear
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -41,7 +41,7 @@ By Kaifi Azmi
 >
 >You must to dazzle and blast though  this prison like a bolt of lightning
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -55,7 +55,7 @@ By Kaifi Azmi
 >
 >You must now pour your existence  into a mold of steel
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -69,7 +69,7 @@ By Kaifi Azmi
 >
 >For that awoke progressive mate's thoughts too you must with passion burn and  swoon 
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -83,7 +83,7 @@ By Kaifi Azmi
 >
 >Overturn this repressive season of demands if you want to grow and prosper
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -97,7 +97,7 @@ By Kaifi Azmi
 >
 >You have to change the title of your destiny
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -111,7 +111,7 @@ By Kaifi Azmi
 >
 >What to say about thorns in your way, rise above roses strewn in your path too
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -125,7 +125,7 @@ By Kaifi Azmi
 >
 >Like a cyclone you have to howl and rage yet
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
@@ -139,11 +139,11 @@ By Kaifi Azmi
 >
 >Till when will you stumble? Now be steady and compose yourself
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, walk with me
 >
->
+><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >T*ranslated by Hersh Bhasin*
 
