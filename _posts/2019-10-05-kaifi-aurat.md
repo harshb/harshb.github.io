@@ -111,7 +111,7 @@ By Kaifi Azmi
 >
 >Walk away these grandiose chains of duty self imposed by your soul
 >
->Walk away from love If love enslaves and becomes a gaol
+>Walk away from love if love enslaves and becomes a gaol
 >
 >Walk away from the  thorns and also the roses strewn in your path my dear
 >
