@@ -63,11 +63,11 @@ By Kaifi Azmi
 >
 >The pulse of life  is  found not in the quivering teardrops  unrestrained
 >
-> Life gives its  fragrance to expansion and flight and not to the proud  tossing of a  mane
+> Life gives its  fragrance to expansion and flight and not to the proud  tossing of the  mane
 >
 >There is another heaven  you'll find stepping  out of the shadow of your male
 >
->For every awoke progressive male's thoughts too should  your passion be uncurtailed
+>For every awoke progressive male's redeeming thought too should  your passion be aroused
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
