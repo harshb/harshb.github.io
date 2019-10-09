@@ -25,7 +25,7 @@ By Kaifi Azmi
 >
 >Our  ideals of  shapeliness and romance are of one rhythm now
 >
->The fire that burns me, let it burn in it too my dear
+>The fire that burns in me, let it burn in you too my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
