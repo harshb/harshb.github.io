@@ -15,8 +15,6 @@ This poem has a special place in my heart as it describes the plight of immigran
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/50XQd5t3M5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 > My heart, you vagabond one
 >
 > Again the command has come
@@ -57,7 +55,7 @@ This poem has a special place in my heart as it describes the plight of immigran
 >
 > *Translated by Hersh Bhasin*
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 मिरे दिल, मिरे मुसाफ़िर 
 
