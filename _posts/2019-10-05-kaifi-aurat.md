@@ -55,7 +55,7 @@ By Kaifi Azmi
 >
 >You who, as soon as you tried to change, would slip  and fall on your face
 >
->You who like quicksilver would mold in every vase
+>You who, like quicksilver, would mold in every vase
 >
 >Now go  pour your existence  into a mold of iron my dear
 >
@@ -113,19 +113,19 @@ By Kaifi Azmi
 >
 >Rise above love, If love enslaves and puts you in a hole
 >
->Ignore the  thorns and also the roses strewn in your path 
+>Ignore the  thorns and also the roses strewn in your path my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->Break the  vision of the dutiful  woman supreme
+>Break your mental vision of the great dutiful  woman hero
 >
->Break  the vows  that  fetter and chain 
+>Break  the vows you took  that  fetter and chain and make you zero
 >
->From  the yoke  of  necklaces of emeralds around your neck  abstain
+>Think of the yoke  of  emeralds necklaces around your neck as an  imperfection
 >
->Spill the wine of  logic that seeks to rationalize your enslavement 
+>Spill the wine of  logic that seeks to rationalize your subjection
 >
 >Like a cyclone you have to howl and rage  my dear
 >
@@ -154,7 +154,6 @@ By Kaifi Azmi
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNtSTsunzZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
