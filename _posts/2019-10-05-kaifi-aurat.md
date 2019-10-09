@@ -37,7 +37,7 @@ By Kaifi Azmi
 >
 >At your feet  heavenly gardens of culture bloom
 >
->From the twinkle of your eyes  civilization and progress  beg to be
+>From the twinkle of your eyes  civilization and progress  flow
 >
 >Your embrace  cradles  all that is  pure
 >
@@ -49,9 +49,9 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->You who were once  satisfied with senseless toys in fashion
+>You who were once  satisfied with toys of latest fashion
 >
->You who were once melted by the heated pants  of passion 
+>You who were once melted by the heated breaths of passion 
 >
 >You who, as soon as you tried to progress, would slip  and fall on your face
 >
@@ -67,11 +67,11 @@ By Kaifi Azmi
 >
 >The pulse of life is not in the quivering teardrop  obtained
 >
-> It's in flying and blooming  that life gives its fragrance and not in the vain curling of tresses
+> It's in flying and blooming  that life gives its fragrance and not  curling of tresses vain
 >
->There is another heaven present  that 's not in the shadow of the male
+>There is another heaven present  that 's not in the shadow of the male sovereign
 >
->For every awoke male's redeeming temperament too should you get excited and  titillate
+>For every awoke male's redeeming temperament you should celebrate and  pop champagne
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
