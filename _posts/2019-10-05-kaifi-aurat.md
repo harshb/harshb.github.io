@@ -21,13 +21,13 @@ By Kaifi Azmi
 
 >Arise my dear, come walk with me
 >
->A spirit of rebellion quivers in every heart now
+>A spirit of rebellion stirs in every heart now
 >
->The archetype of courage is born and  wears our own  self  as a uniform now
+>The archetype of courage is our self's uniform now
 >
->Goblets of lava heat our stony insentience to consciousness now
+>Goblets of lava heat our stony insentience to a higher consciousness now
 >
->Our transmuted  ideals of  attractiveness and romance are tuned to the same pitch now
+>Our transmuted  ideals of  attractiveness and romance are tuned to the same high pitch now
 >
 >The fire that burns in me, let it burn in you too my dear
 >
@@ -37,7 +37,7 @@ By Kaifi Azmi
 >
 >At your feet  heavenly gardens of culture bloom
 >
->In the orbit of  your eyes  civilization and progress  roam
+>From the twinkle of your eyes  civilization and progress  beg to be
 >
 >Your embrace  cradles  all that is  pure
 >
@@ -53,11 +53,11 @@ By Kaifi Azmi
 >
 >You who were once melted by the heated pants  of passion 
 >
->You who, as soon as you tried to change, would slip  and fall on your face
+>You who, as soon as you tried to progress, would slip  and fall on your face
 >
 >You who, like quicksilver, would mold to every vase
 >
->Now go  pour your existence  into a mold of iron my dear
+>Now you must  pour your existence  into a mold of iron my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -67,7 +67,7 @@ By Kaifi Azmi
 >
 >The pulse of life is not in the quivering teardrop  obtained
 >
-> It's in flying and blooming  that life gives its fragrance and not in the curling of tresses
+> It's in flying and blooming  that life gives its fragrance and not in the vain curling of tresses
 >
 >There is another heaven present  that 's not in the shadow of the male
 >
@@ -119,11 +119,11 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->Break your mental vision of the great dutiful  woman hero
+>Break your mental projection of yourself as  the great dutiful  woman hero
 >
 >Break  the vows you took  that  fetter and chain you down
 >
->See, the yoke  of  emeralds necklaces around your neck is an  imperfection
+>See, the emerald necklaces around your neck is a yoke, an  imperfection
 >
 >Spill the wine of  logic that seeks to rationalize your subjection
 >
