@@ -57,7 +57,7 @@ By Kaifi Azmi
 >
 >You who, like quicksilver, would mold to every vase
 >
->Now you must  pour your existence  into a mold of iron my dear
+>You  must  now pour your existence  into a mold of iron my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
