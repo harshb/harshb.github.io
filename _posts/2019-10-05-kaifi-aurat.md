@@ -25,7 +25,7 @@ By Kaifi Azmi
 >
 >Our  ideals of  shapeliness and romance are of one rhythm now
 >
->The fire that burns me, you have to burn in it too my dear
+>The fire that burns me, let it burn in it too my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -51,7 +51,7 @@ By Kaifi Azmi
 >
 >You who would once  slip  and fall on your face
 >
->You who like quicksilver would mold into the shape of  every vase 
+>You who like quicksilver would mold in every vase
 >
 >Now pour your existence  into a mold of steel my dear
 >
@@ -109,7 +109,7 @@ By Kaifi Azmi
 >
 >Rise above love, If love enslaves and puts you in a hole
 >
->Forget not just the  thorns, but also the roses thrown in your path 
+>Forget not just the  thorns, but also the roses strewn in your path 
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -149,7 +149,7 @@ By Kaifi Azmi
 
 
 
-
+<img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 
 उठ मिरी जान मिरे साथ ही चलना है तुझे 
