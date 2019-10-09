@@ -109,7 +109,7 @@ By Kaifi Azmi
 >
 >Rise above love, If love enslaves and puts you in a hole
 >
->Forget not just the  thorns, but also the roses strewn in your path 
+>Ignore the  thorns and also the roses strewn in your path 
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
