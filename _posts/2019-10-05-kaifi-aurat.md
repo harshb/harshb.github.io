@@ -23,21 +23,21 @@ By Kaifi Azmi
 >
 >Goblets of lava heat our stony insentience now
 >
->Our  ideals of  shapeliness and romance  are transmuted and are in same rhythm now
+>Our  ideals of  shapeliness and romance are of one rhythm now
 >
->The fire that burns me, you have to burn it it too my dear
+>The fire that burns me, you have to burn in it too my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->At your feet  heavens of culture germinate
+>At your feet  heavenly gardens of culture bloom
 >
->Around your eyes civilization and progress  circumambulate
+>Around your eyes your devotees, civilization and progress,  circumambulate
 >
->In your embrace  you cradles  everything  pure
+>Your embrace  cradles  all that is  pure
 >
->Around you is a fort of  superstition impure
+>But around you is a fort of  superstition impure
 >
 >You have to dazzle and escape from this prison my dear
 >
@@ -47,7 +47,7 @@ By Kaifi Azmi
 >
 >You who were once  satisfied with senseless toys in fashion;
 >
->You who once melted from heated breaths of passion ;
+>You who were once melted by the heated pants  of passion ;
 >
 >You who would once  slip  and fall on your face
 >
@@ -61,13 +61,13 @@ By Kaifi Azmi
 >
 >Life is  found  in  strife and not in passions restrained 
 >
->The pulse of life  is not found in quivering teardrops  unrestrained
+>The pulse of life  is  found not in the quivering teardrops  unrestrained
 >
-> Life gives its  fragrance to expansion and flight and not to the  tossing mane
+> Life gives its  fragrance to expansion and flight and not to the proud  tossing of a  mane
 >
->There is another heaven out there which lies  not in the shadow of your male
+>There is another heaven  you'll find stepping  out of the shadow of your male
 >
->For that awoke progressive mate's thoughts too you must with passion burn and  swoon 
+>For every awoke progressive male's thoughts too should  your passion be uncurtailed
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -91,9 +91,9 @@ By Kaifi Azmi
 >
 >There is  dynamite  and  not just sobs and  tears in your repertoire
 >
->You  have being, existence, reality ; and are not just an interesting story told in the bazar
+>You  are a person in your own right and  not just an interesting story to be told in the bazar
 >
->Your existence too is a thing and not just  your beauty beyond par
+>Your existence too is a thing --  you're not to be admired simply because  your beauty is beyond par
 >
 >You have to rewrite the title of the book of your destiny my dear
 >
@@ -109,21 +109,21 @@ By Kaifi Azmi
 >
 >Rise above love, If love enslaves and puts you in a hole
 >
->Rise over not just thorns, but also above roses in your path strewn 
+>Forget not just the  thorns, but also the roses thrown in your path 
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->Break your  self induced mental image of the dutiful super woman
+>Break the  vision of the dutiful  woman supreme
 >
->Break  the vows  that chain you down
+>Break  the vows  that  fetter and chain 
 >
->Break the yokes of  necklaces made of emerald and gold
+>From  the yoke  of  necklaces of emeralds around your neck  abstain
 >
 >Spill the wine of  logic that seeks to rationalize your enslavement 
 >
->Like a cyclone you have to howl and rage yet my dear
+>Like a cyclone you have to howl and rage  my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -137,11 +137,11 @@ By Kaifi Azmi
 >
 >I won't stop for you, neither will time
 >
->Stumbling has to stop, you have to walk now my dear
+>Stop stumbling now and walk straight now my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
->Arise my dear, walk with me
+>Arise my dear, come walk with me
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
