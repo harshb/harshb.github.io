@@ -9,6 +9,10 @@ published: true
 
 
 
+This is my translation of the poet Kaifi Azmi's poem "Aurat" (Woman) . I think this is the greatest feminist  poem I have read that has been written by a male. Written in 1940, when  female empowerment was not even a conceptualized thought in India, this poem is a testament to the progressive thoughts of Kaifi Azmi.
+
+
+
 ## Woman
 
 By Kaifi Azmi
@@ -19,11 +23,11 @@ By Kaifi Azmi
 >
 >A spirit of rebellion quivers in every heart now
 >
->The archetype of courage is born and  wears our own  self  now
+>The archetype of courage is born and  wears our own  self  as a uniform now
 >
->Goblets of lava heat our stony insentience now
+>Goblets of lava heat our stony insentience to consciousness now
 >
->Our  ideals of  shapeliness and romance are of one rhythm now
+>Our transmuted  ideals of  attractiveness and romance are tuned to the same pitch now
 >
 >The fire that burns in me, let it burn in you too my dear
 >
@@ -33,7 +37,7 @@ By Kaifi Azmi
 >
 >At your feet  heavenly gardens of culture bloom
 >
->Around your eyes your devotees, civilization and progress,  circumambulate
+>In the orbit of  your eyes  civilization and progress  roam
 >
 >Your embrace  cradles  all that is  pure
 >
@@ -45,15 +49,15 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->You who were once  satisfied with senseless toys in fashion;
+>You who were once  satisfied with senseless toys in fashion
 >
->You who were once melted by the heated pants  of passion ;
+>You who were once melted by the heated pants  of passion 
 >
->You who would once  slip  and fall on your face
+>You who, as soon as you tried to change, would slip  and fall on your face
 >
 >You who like quicksilver would mold in every vase
 >
->Now pour your existence  into a mold of steel my dear
+>Now go  pour your existence  into a mold of iron my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -65,9 +69,9 @@ By Kaifi Azmi
 >
 > Life gives its  fragrance to expansion and flight and not to the proud  tossing of the  mane
 >
->There is another heaven  you'll find stepping  out of the shadow of your male
+>There is another heaven  you'll find stepping  out of the shadow of your mate
 >
->For every awoke progressive male's redeeming thought too should  your passion be aroused
+>For every such awoke male's redeeming thought too should you get excited and  titillate
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -150,7 +154,6 @@ By Kaifi Azmi
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNtSTsunzZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
