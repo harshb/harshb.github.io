@@ -55,7 +55,7 @@ By Kaifi Azmi
 >
 >You who, as soon as you tried to change, would slip  and fall on your face
 >
->You who, like quicksilver, would mold in every vase
+>You who, like quicksilver, would mold to every vase
 >
 >Now go  pour your existence  into a mold of iron my dear
 >
@@ -154,7 +154,6 @@ By Kaifi Azmi
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNtSTsunzZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 
