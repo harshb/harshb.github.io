@@ -65,13 +65,13 @@ By Kaifi Azmi
 >
 >Life is  found  in  strife and not in passions restrained 
 >
->The pulse of life  is  found not in the quivering teardrops  unrestrained
+>The pulse of life is not in the quivering teardrop  obtained
 >
-> Life gives its  fragrance to expansion and flight and not to the proud  tossing of the  mane
+> It's in flying and blooming  that life gives its fragrance and not in the curling of tresses
 >
->There is another heaven  you'll find stepping  out of the shadow of your mate
+>There is another heaven present  that 's not in the shadow of the male
 >
->For every such awoke male's redeeming thought too should you get excited and  titillate
+>For every awoke male's redeeming temperament too should you get excited and  titillate
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -105,15 +105,15 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->Break the shackles of tradition and rise above the restrictions of orthodoxy
+>Break the shackles of tradition and walk away from the restrictions of orthodoxy
 >
->Rise above the frailty caused by luxury and the whims of delicacy
+>Walk away from the frailty caused by luxury and by the whims of delicacy
 >
->Rise above these fetters of bondage around your soul
+>Walk away these grandiose chains of duty self imposed by your soul
 >
->Rise above love, If love enslaves and puts you in a hole
+>Walk away from love If love enslaves and becomes a gaol
 >
->Ignore the  thorns and also the roses strewn in your path my dear
+>Walk away from the  thorns and also the roses strewn in your path my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -121,9 +121,9 @@ By Kaifi Azmi
 >
 >Break your mental vision of the great dutiful  woman hero
 >
->Break  the vows you took  that  fetter and chain and make you zero
+>Break  the vows you took  that  fetter and chain you down
 >
->Think of the yoke  of  emeralds necklaces around your neck as an  imperfection
+>See, the yoke  of  emeralds necklaces around your neck is an  imperfection
 >
 >Spill the wine of  logic that seeks to rationalize your subjection
 >
