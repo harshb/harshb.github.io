@@ -9,6 +9,10 @@ published: true
 
 
 
+This is my translation of the poet Kaifi Azmi's poem "Aurat" (Woman) . I think this is the greatest feminist  poem I have read that has been written by a male. Written in 1940, when  female empowerment was not even a conceptualized thought in India, this poem is a testament to the progressive thoughts of Kaifi Azmi.
+
+
+
 ## Woman
 
 By Kaifi Azmi
@@ -17,13 +21,13 @@ By Kaifi Azmi
 
 >Arise my dear, come walk with me
 >
->A spirit of rebellion quivers in every heart now
+>A spirit of rebellion stirs in every heart now
 >
->The archetype of courage is born and  wears our own  self  now
+>The archetype of courage is our self's uniform now
 >
->Goblets of lava heat our stony insentience now
+>Goblets of lava heat our stony insentience to a higher consciousness now
 >
->Our  ideals of  shapeliness and romance are of one rhythm now
+>Our transmuted  ideals of  attractiveness and romance are tuned to the same high pitch now
 >
 >The fire that burns in me, let it burn in you too my dear
 >
@@ -33,7 +37,7 @@ By Kaifi Azmi
 >
 >At your feet  heavenly gardens of culture bloom
 >
->Around your eyes your devotees, civilization and progress,  circumambulate
+>From the twinkle of your eyes  civilization and progress  flow
 >
 >Your embrace  cradles  all that is  pure
 >
@@ -45,15 +49,15 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->You who were once  satisfied with senseless toys in fashion;
+>You who were once  satisfied with toys of latest fashion
 >
->You who were once melted by the heated pants  of passion ;
+>You who were once melted by the heated breaths of passion 
 >
->You who would once  slip  and fall on your face
+>You who, as soon as you tried to progress, would slip  and fall on your face
 >
->You who like quicksilver would mold in every vase
+>You who, like quicksilver, would mold to every vase
 >
->Now pour your existence  into a mold of steel my dear
+>You  must  now pour your existence  into a mold of iron my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -61,13 +65,13 @@ By Kaifi Azmi
 >
 >Life is  found  in  strife and not in passions restrained 
 >
->The pulse of life  is  found not in the quivering teardrops  unrestrained
+>The pulse of life is not in the quivering teardrop  obtained
 >
-> Life gives its  fragrance to expansion and flight and not to the proud  tossing of the  mane
+> It's in flying and blooming  that life gives its fragrance and not  curling of tresses vain
 >
->There is another heaven  you'll find stepping  out of the shadow of your male
+>There is another heaven present  that 's not in the shadow of the male sovereign
 >
->For every awoke progressive male's redeeming thought too should  your passion be aroused
+>For every awoke male's redeeming temperament you should celebrate and  pop champagne
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
@@ -101,27 +105,27 @@ By Kaifi Azmi
 >
 >Arise my dear, come walk with me
 >
->Break the shackles of tradition and rise above the restrictions of orthodoxy
+>Break the shackles of tradition and walk away from the restrictions of orthodoxy
 >
->Rise above the frailty caused by luxury and the whims of delicacy
+>Walk away from the frailty caused by luxury and by the whims of delicacy
 >
->Rise above these fetters of bondage around your soul
+>Walk away these grandiose chains of duty self imposed by your soul
 >
->Rise above love, If love enslaves and puts you in a hole
+>Walk away from love if love enslaves and becomes a gaol
 >
->Ignore the  thorns and also the roses strewn in your path 
+>Walk away from the  thorns and also the roses strewn in your path my dear
 >
 ><img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 >
 >Arise my dear, come walk with me
 >
->Break the  vision of the dutiful  woman supreme
+>Break your mental projection of yourself as  the great dutiful  woman hero
 >
->Break  the vows  that  fetter and chain 
+>Break  the vows you took  that  fetter and chain you down
 >
->From  the yoke  of  necklaces of emeralds around your neck  abstain
+>See, the emerald necklaces around your neck is a yoke, an  imperfection
 >
->Spill the wine of  logic that seeks to rationalize your enslavement 
+>Spill the wine of  logic that seeks to rationalize your subjection
 >
 >Like a cyclone you have to howl and rage  my dear
 >
@@ -150,9 +154,6 @@ By Kaifi Azmi
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LNtSTsunzZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 <img src="../assets/spacer.png" alt="Sahil Ludhianvi" style="width:52px;height:20px;">
 
 
